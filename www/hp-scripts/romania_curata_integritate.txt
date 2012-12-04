@@ -240,12 +240,12 @@ source= http://verificaintegritatea.romaniacurata.ro/?p=474
 cat=    Averea candidatilor
 Doua terenuri in localitatea Videle obtinute prin cumparare, doua case de locuit una cu o suprafata de 249 mpatrati in aceeasi localitate, un autorturism marca Audi, credite de la banci romanesti in valoare de 19 000 euro si 72 000 lei.
 name=   Manuela Mitrea
-context=Camera Deputatilor, Judetul in care candideaza: Constanta, Colegiul 9: http://www.becparlamentare2008.ro/colegii_uninominale.html, Alianta/Partidul pentru care candideaza: USL-PSD
+context=Camera Deputatilor, Judetul in care candideaza: Constanta, Colegiul 8: http://www.becparlamentare2008.ro/colegii_uninominale.html, Alianta/Partidul pentru care candideaza: USL-PSD
 source= http://verificaintegritatea.romaniacurata.ro/?p=490
 cat=    Nepotism
 Sotia lui Miron Mitrea, fost ministru al Trasporturilor si fost vicepresedinte al Partidul Social Democrat in perioada 2001 – 2006.
 name=   Manuela Mitrea
-context=Camera Deputatilor, Judetul in care candideaza: Constanta, Colegiul 9: http://www.becparlamentare2008.ro/colegii_uninominale.html, Alianta/Partidul pentru care candideaza: USL-PSD
+context=Camera Deputatilor, Judetul in care candideaza: Constanta, Colegiul 8: http://www.becparlamentare2008.ro/colegii_uninominale.html, Alianta/Partidul pentru care candideaza: USL-PSD
 source= http://verificaintegritatea.romaniacurata.ro/?p=493
 cat=    Averea candidatilor
 Detine un teren, impreuna cu Miron Mitrea doua case de locuit, bijuterii si obiecte de arta in valoare dec 281 000 lei, trei autoturisme marcile Land Rover, Mitsubishi, Lexus. Are in conturi 56 411 lei, 959 euro si 1084 USD.
@@ -465,7 +465,7 @@ source= http://verificaintegritatea.romaniacurata.ro/?p=828
 cat=    Afaceri si contractele cu statul
 A fost actionar la JOHANN HENGER & PARTNER CONSULTING SRL,firma aflata in lichidare.
 name=   Claudia Boghicevici
-context=Camera Deputatilor, Judetul in care candideaza: Arad, Colegiul 3: http://www.becparlamentare2008.ro/coleguni/arad.pdf, Alianta/Partidul pentru care candideaza: ARD-PDL
+context=Camera Deputatilor, Judetul in care candideaza: Arad, Colegiul 2: http://www.becparlamentare2008.ro/coleguni/arad.pdf, Alianta/Partidul pentru care candideaza: ARD-PDL
 source= http://verificaintegritatea.romaniacurata.ro/?p=847
 cat=    Averea candidatilor
 Deţine un teren agricol, două terenuri intravilan, două case de locuit, toate în Arad. Are datorii care depăşesc 200.000 de euro, respectiv două credite la Raiffeissen Bank, în valoare totală de 187.385 de euro, scadente în 2023 şi trei împrumuturi de la persoane fizice, în valoare de 10.000 de euro şi 170.000 de lei. Claudia Boghicevici a încasat anul trecut 35.801 de lei din salariul de la Camera Deputaţilor şi 2.666 de lei de la Universitatea “Aurel Vlaicu”. Soţul acesteia, Cătălin Boghicevici, a încasat anul trecut 8.400 de lei din salariu şi 6.800 de lei din indemnizaţia de concediu pentru creşterea copilului. Detine acţiuni în valoare de 1.500 de lei deţinute la SC Dikaboss International SRL şi un contract de asociere încheiat de soţul său în 2007, în care acesta are o cotă de participare de 50 la sută în valoare de 100.000 de euro.
@@ -1343,8 +1343,7 @@ name=   Radu Botezatu
 context=Camera Deputaților, Judetul in care candideaza: Harghita, Colegiul 1: http://www.becparlamentare2008.ro/coleguni/harghita.pdf, Alianta/Partidul pentru care candideaza: ARD-Forta Civica
 source= http://verificaintegritatea.romaniacurata.ro/?p=2432
 cat=    Averea candidatilor
-Doua terenuri extravilan de 5000 mp si 25.000 mp si altul de 280 mp intravilan in comuna Voluntari, plus o casa in aceeasi comuna. Bijuterii si tablouri cu o valoare estimata la 50.000 lei. Este manager la Cosmote Telecom de unde a incasat in 2011 un salariu anual de 74.000 lei si mai are un PFA , care i-a adus castiguri de 94.000 lei anual.
-Detine actuni la societatea Brodgar SRL.
+Doua terenuri extravilan de 5000 mp si 25.000 mp si altul de 280 mp intravilan in comuna Voluntari, plus o casa in aceeasi comuna. Bijuterii si tablouri cu o valoare estimata la 50.000 lei. Sotia este manager la Cosmote Telecom de unde a incasat in 2011 un salariu anual de 74.000 lei, iar candidatul este inscris ca PFA cu castiguri de 94.000 lei anual.
 name=   Szekely Reka Kinga
 context=Camera Deputaților, Judetul in care candideaza: Harghita, Colegiul 3: http://www.becparlamentare2008.ro/coleguni/harghita.pdf, Alianta/Partidul pentru care candideaza: PPMT
 source= http://verificaintegritatea.romaniacurata.ro/?p=2443
@@ -1685,26 +1684,26 @@ source= http://verificaintegritatea.romaniacurata.ro/?p=2799
 cat=    Afaceri si contractele cu statul
 Compania Panesim SRL, detinuta integral de Ciobanu Liliana, primeste regulat contracte de la institutii ale statului: Penitenciarul cu Regim de Maxima Siguranta Giurgiu (30.000 lei, ianuarie 2011), Consiliul Judetean Giurgiu (produse de panificatie pentru scoli si gradinite, 28.000 lei – octombrie 2010, 194.000 lei-octombrie 2009, septembrie 2008-194.000 lei), Ministerul Apararii – Unitatea Militara 01895 Bucuresti (martie 2009, martie 2008).
 name=   Marin Anton
-context=Camera Deputaților, Judetul in care candideaza: Giurgiu, Colegiul 1: http://www.becparlamentare2008.ro/coleguni/giurgiu.pdf, Alianta/Partidul pentru care candideaza: USL-PNL
+context=Camera Deputaților, Judetul in care candideaza: Giurgiu, Colegiul 2: http://www.becparlamentare2008.ro/coleguni/giurgiu.pdf, Alianta/Partidul pentru care candideaza: USL-PNL
 source= http://verificaintegritatea.romaniacurata.ro/?p=2812
 cat=    Traseism
 1998-2006, membru PNL, de unde pleaca odata cu gruparea Stolojan si infiinteaza PLD in anul 2006 si apoi PDL. Este presedinte al PLD Ilfov (2006-2007) si presedintele PDL Giurgiu din 2010.
 In luna aprilie 2012 demisioneaza din PDL si se inscrie in PNL, partid pe lista caruia candideaza in judetul Giurgiu.
 name=   Marin Anton
-context=Camera Deputaților, Judetul in care candideaza: Giurgiu, Colegiul 1: http://www.becparlamentare2008.ro/coleguni/giurgiu.pdf, Alianta/Partidul pentru care candideaza: USL-PNL
+context=Camera Deputaților, Judetul in care candideaza: Giurgiu, Colegiul 2: http://www.becparlamentare2008.ro/coleguni/giurgiu.pdf, Alianta/Partidul pentru care candideaza: USL-PNL
 source= http://verificaintegritatea.romaniacurata.ro/?p=2814
 cat=    Averea candidatilor
 Conform Forbes, Marin Anton are o avere estimata la 10 milioane euro. El detine 27 de terenuri in Buzau, Prahova, Giurgiu, Ilfov si Bucuresti, care insumeaza circa 2,5 milioane metri patrati, plus trei apartamente si patru case. Si la autoturisme sta bine: un BMW X5, un BMW M6 si un Mini Coopers.
 Colectie de tablouri in valoare de 160.000 euro, ceasuri si bijuterii de 90.000 euro. In conturi are 1,7 milioane lei si investitii si plasamente de aproape 3 milioane lei.
 Detine actiuni la companiile: Primpest Impex SRL, VVTC Euro- Construct SRL, V&V Trading Company SRL, A&V Consulting 2002 SRL, Cord Commerce 2002 SRL, VVTC Imobiliare SRL, Eurosudest SRL, RAFO SA, SC Eforie Tursim, Anton D. Marin Intreprindere Individuala.
 name=   Marin Anton
-context=Camera Deputaților, Judetul in care candideaza: Giurgiu, Colegiul 1: http://www.becparlamentare2008.ro/coleguni/giurgiu.pdf, Alianta/Partidul pentru care candideaza: USL-PNL
+context=Camera Deputaților, Judetul in care candideaza: Giurgiu, Colegiul 2: http://www.becparlamentare2008.ro/coleguni/giurgiu.pdf, Alianta/Partidul pentru care candideaza: USL-PNL
 source= http://verificaintegritatea.romaniacurata.ro/?p=2816
 cat=    Afaceri si contractele cu statul
 In anul 2010, Marin Anton a primit o subventie pentru agricultura in valoare de 31.709 lei, prin intermediul intreprinderii individuale “Anton D. Marin”.
 Tot in anul 2010, firma Maragro SRL, la care sotia sa era atunci actionar si director financiar, a primit in concesiune un imobil, pentru 20 de ani, prin atribuire directa de la Administratia Domeniilor Statului (ADS).
 name=   Marin Anton
-context=Camera Deputaților, Judetul in care candideaza: Giurgiu, Colegiul 1: http://www.becparlamentare2008.ro/coleguni/giurgiu.pdf, Alianta/Partidul pentru care candideaza: USL-PNL
+context=Camera Deputaților, Judetul in care candideaza: Giurgiu, Colegiul 2: http://www.becparlamentare2008.ro/coleguni/giurgiu.pdf, Alianta/Partidul pentru care candideaza: USL-PNL
 source= http://verificaintegritatea.romaniacurata.ro/?p=2819
 cat=    Incompatibilitate
 In luna iunie 2011, Agentia Nationala de Integritate anunta ca s-a autosesizat din presa in legatura cu averea lui Anton si ca il verifica pe acesta.
@@ -3829,8 +3828,75 @@ name=   Adelina Mariana Coste
 context=Camera Deputatilor, Judetul in care candideaza: Bihor, Colegiul 6: http://www.becparlamentare2008.ro/coleguni/bihor.pdf, Alianta/Partidul pentru care candideaza: ARD-PDL
 source= http://verificaintegritatea.romaniacurata.ro/?p=5267
 cat=    Afaceri si contractele cu statul
-Firma la care este administrator Marius Coste si consilier juridic Adelina Coste ii are printre actionari pe Pavel Mercea, fost consilier local PSD. Pavel Mercea a fost găsit incompatibil de către Agenţia Naţională de Integritate, care îl acuză că  făcut afaceri cu municipalitatea în valoare de 7,5 milioane de lei prin firma SC Proiect Bihor SA.
-Potrivit unui comunicat al ANI, Mercea ar fi derulat 38 de contracte (servicii de proiectare), în cuantum de 7.516.394 lei. Contractele, arată ANI, au fost “încheiate cu Consiliul Local Oradea şi instituţii subordonate Consiliului Local Oradea”.
+Sotul Adelinei Coste este actionar minoritar  la Sc Proiect Bihor SA potrivit Monitorului Oficial al Romaniei partea a IV- a nr. 2789 din 15.10 2007 si presedintele Consiliului de administratie al firmei, potrivit datelor Recom. Firma ii are printre actionari pe Pavel Mercea, fost consilier local PSD. Pavel Mercea a fost găsit incompatibil de către Agenţia Naţională de Integritate, care îl acuză că  făcut afaceri cu municipalitatea în valoare de 7,5 milioane de lei prin firma SC Proiect Bihor SA.
+SC Proiect Bihor SA a derulat in perioada 2007, singur sau in asociere, prin toate procedurile de atribuire a contractului, urmatoarele contracte:
+PROIECTARE VALORIFICARE ENERGIE GEOTERMALA (12.10.2011) MUNICIPIUL ORADEA       S.C. PROIECT BIHOR S.A. Valoare castigatoare: 157,000.00 (RON)
+Elaborarea documentatiei tehnico-economice în cadrul proiectului „Valorificarea energiei geotermal (08.08.2011) MUNICIPIUL ORADEA    PROIECT BIHOR S.A. Valoare castigatoare: 198,000.00 (RON)
+“elaborarea documentatiei tehnico-economice în cadrul proiectului VALORIFICAREA ENERGIEI GEOTERMAL (08.08.2011) MUNICIPIUL ORADEA      PROIECT BIHOR S.A.Valoare castigatoare: 113,900.00 (RON)
+Servicii elaborare documentatie tehnico-economica pentru punctele termice din cartierul Dragos Voda (27.07.2011)             MUNICIPIUL ORADEA PROIECT BIHOR S.A.
+Valoare castigatoare: 65,000.00 (RON)
+Servicii de proiectare ( PT, DTE, PAC,CS, asis.teh.din partea proiectantului,doc.obt.avize ) (09.05.2011)             Comuna Ciumeghiu (Consiliul Local Ciumeghiu)S.C. PROIECT BIHOR SA Valoare castigatoare: 180,000.00 (RON)
+Elaborare documentatie tehnico economica pentru – Reabilitarea Bibliotecii Vechi (17.03.2011) Universitatea din Oradea S.C. PROIECT BIHOR S.A.
+Valoare castigatoare: 38,500.00 (RON)
+Elaborare PT, DDE ”Proiect Integrat pt. dezvoltarea Comunei Ceica” (25.02.2011) COMUNA CEICA (PRIMARIA) SC PROIECT BIHOR SA Valoare castigatoare: 59,704.00 (RON)
+ELABORAREA PROEICTELOR SI STUDIILOR NECESARE PENTRU REALIZAREA CENTRULUI DE CARDIOLOGIE VIVA ANIMA (18.10.2010) MUNICIPIUL ORADEA S.C. PROIECT BIHOR S.A.Valoare castigatoare: 165,000.00 lei
+Elaborarea studiilor necesare în cadrul proiectului Integrated Urban Development of Vital Historic (21.09.2010)             MUNICIPIUL ORADEA PROIECT BIHOR S.A.
+Valoare castigatoare: 270,000.00 (RON)
+“ELABORAREA STUDIILOR TEHNICO-ECONOMICE IN VEDEREA REVITALIZARII ANSAMBLULUI URBAN Oradea (21.09.2010) MUNICIPIUL ORADEA PROIECT BIHOR S.A. Valoare castigatoare: 315,000.00 (RON)
+Elaborarea documentatiei tehnico-economice pentru“ Realizarea infrastructurii de utilitati publice (09.08.2010)             MUNICIPIUL ORADEA PROIECT BIHOR S.A. Valoare castigatoare: 148, 000.00 (RON)
+Elaborare documentatie tehnico-economica“ Realizarea infrastructurii de utilitati publice in Parcul (09.08.2010) MUNICIPIUL ORADEA    PROIECT BIHOR S.A. Valoare castigatoare: 225,000.00 (RON)
+PT si detalii de executie-Modernizarea PT 105 din Oradea si a retelelor secundare aferente PT 105 (30.06.2010) ELECTROCENTRALE ORADEA S.A.     S.C. PROIECT BIHOR S.A. Oradea Valoare castigatoare: 48,000.00 (RON)
+“Construirea si dotarea Centrului de Cercetari in Medicina de Inalta Performanta in vederea abordari (26.03.2010) MUNICIPIUL ORADEA    PROIECT BIHOR S.A.
+Valoare castigatoare: 210,000.00 (RON)
+SERVICII DE PROIECTARE (intocmire proiect tehnic , detalii de executie, documentatii pentru obtinerea acordurilor, avizelor si autorizatiilor, caietului de sarcini, verificarea tehnica a proiectarii) SI ASISTENTA TEHNICA DIN PARTEA PROIECTANTULUI IN CADRU (01.03.2010)       COMUNA GIRDA DE SUS (PRIMARIA COMUNEI GIRDA DE SUS)          S.C NV CONSTRUCT S.R.L.
+MURO INSTAL S.R.L.  Valoare castigatoare: 26,700.00 (RON)
+Reabilitare si Modernizare DJ 767A Uileacu de Cris(DN1)–Balaia-Burzuc-Sîrbi(DN19E),L=25 km,jud.Bihor (29.01.2010)   JUDETUL BIHOR    PROIECT BIHOR S.A. Valoare castigatoare: 185,000.00 (RON)
+PROIECTARE-REABILITARE PASAJ VUSTURUL NEGRU ORADEA (27.11.2009) MUNICIPIUL ORADEA      S.C. PROIECT BIHOR S.A-lider asociere Valoare castigatoare: 125,000.00 (RON)
+proiectare exp.teh, pt, cs, dde reabilitare interioara Catedrala Greco Catolica Sf Nicolae (15.10.2009)             MUNICIPIUL ORADEA S.C. PROIECT BIHOR S.A.Valoare castigatoare: 126,000.00 (RON)
+cercetare arheologica la corpurile B,C,D si E in Cetatea Oradea (06.10.2009) MUNICIPIUL ORADEA PROIECT BIHOR S.A. Valoare castigatoare: 379,610.00 (RON)
+„Elaborarea Proiectelor si Studiilor necesare reabilitarii si refunctionalizarii Corpurilor B,C,D si E din Cetatea Oradea” in vederea introducerii in circuitul turistic al Cetatii Oradea (25.08.2009)           MUNICIPIUL ORADEA SC Proiect Bihor SA Valoare castigatoare: 2,618,000.00 (RON)
+ELABORARE SF PT. ASIGURAREA CU UTILITATI SI FUNCTIUNI A PARCULUI INDUSTRIAL EUROBUSINESS ORADEA (15.07.2009)            ADMINISTRATIA IMOBILIARA ORADEA      S.C. PROIECT BIHOR S.A.Valoare castigatoare: 415,000.00 (RON)
+Revitalizarea Bisericii cu Luna din Oradea si introducerea ei in circuitul turistic religios local, (15.07.2009) MUNICIPIUL ORADEA    SC Proiect Bihor SA
+Valoare castigatoare: 138,000.00 (RON)
+Reabilitare si modernizare centru de zi Iedera pt copiii cu sindrom Dwn si familiile lor si a centrului de zi pt. persoane cu sceloza multipla din Municipiul Oradea (16.06.2009) MUNICIPIUL ORADEA PROIECT BIHOR S.A. Valoare castigatoare: 67,473.00 (RON)
+63212 Reabilitare,modernizare si dotare Grup Scolar Andrei Saguna si Ambulatoriu Obstetrica si Ginecologie Oradea (16.06.2009) MUNICIPIUL ORADEA PROIECT BIHOR S.A.Valoare castigatoare: 186,256.00 (RON)
+62530 executia lucrarilor in continuare aferente obiectivelor de investitii strazi si poduri nefinalizate in anul 2009 (04.06.2009)   MUNICIPIUL ORADEA    PROIECT BIHOR S.A. Valoare castigatoare: 21,164,264.00 (RON)
+Proiectare bloc pentru tineret prin ANL str. Iasomiei 60 apartamente P+3E (03.04.2009) Municipiul Salonta SC. PROIECT BIHOR SA Valoare castigatoare: 58,401.00 (RON)
+63785 Intocmire Studii de Fezabilitate pt.Proiectul integrat de dezvoltare locala al com.Ceica,compus din: (20.02.2009) COMUNA CEICA (PRIMARIA) SC PROIECT BIHOR SA Valoare castigatoare: 297077.00 (RON)
+“ Servicii de proiectare ( PT+CS+DE) de locuinte sociale in Comuna Biharia, judetul Bihor .” (19.01.2009)             COMUNA BIHARIA S.C. PROIECT BIHOR S.A.
+Valoare castigatoare: 148,361.00 (RON)
+58166 Elaborare SF+proiect tehnic de executie pentru extindere linie de tramvai (07.01.2009)   MUNICIPIUL ORADEA PROIECT BIHOR S.A.Valoare castigatoare: 125,300.00 (RON)
+Elaborare SF si proiect tehnic pentru constructia drumului interior din Parcul Industrial (24.12.2008)             MUNICIPIUL ORADEA    S.C. PROIECT BIHOR S.A.
+ELAB DOCUMENTATIEI TEHNICO-ECONOMICE FAZA SF PENTRU OBIECTIVUL PARCARE SUBTERANA (15.12.2008)             ADMINISTRATIA IMOBILIARA ORADEA S.C. PROIECT BIHOR S.A. Valoare castigatoare: 270,000.00 (RON)
+SERVICII DE PROIECTARE (09.12.2008)          INSPECTORATUL DE POLITIE AL JUDETULUI BIHOR SC PROIECT BIHOR SA Valoare castigatoare: 33,600.00 (RON)
+Locuinte pentru tineri destinate inchirierii,judetul Bihor,Orasul Sacuieni,Strada Libertatii nr.1/A (13.10.2008)             Agentia Nationala pentru Locuinte SC PROIECT BIHOR SA
+Valoare castigatoare: 84,100.00 (RON)
+Contract de proiectare,locuinte pentru tineri destinate inchirierii,judetul Bihor,Municipiul Salonta,Zona Iasomiei,Parcela Z4 (10.10.2008) Agentia Nationala pentru Locuinte S.C PROIECT BIHOR S.A Valoare castigatoare: 270,000.00 (RON)
+Contract de proiectare ,locuinte pentru tineri destinate inchirierii,judetul Bihor,Orasul Alesd,Strada Arena Sportiva (10.10.2008) Agentia Nationala pentru Locuinte S.C PROIECT BIHOR S.A Valoare castigatoare: 270,000.00 (RON)
+Modernizare DJ 767B DN76–Tasad–Copacel–Serghis–DJ 767,km0+000-22+140,L=22,140 km,jud. Bihor (03.09.2008) JUDETUL BIHOR      PROIECT BIHOR S.A. Valoare castigatoare: 165,800.00 (RON)
+PROIECTARE- REPARATII CAPITALE INSTALATIA ELECTRICA SI AMENAJARI INTERIOARE LA SCOALA OCTAVIAN GOGA (28.08.2008) ADMINISTRATIA IMOBILIARA ORADEA S.C PROIECT BIHOR S.A.
+Valoare castigatoare: 54,200.00 (RON)
+PROIECTARE – REPARATII CAPITALE GRADINITA NR. 34 (22.08.2008) ADMINISTRATIA IMOBILIARA ORADEA S.C. PROIECT BIHOR S.A.
+Valoare castigatoare: 31,200.00 (RON)
+EXPERT TEHN,AUDIT ENERGETIC,DOCUMENTA AVIZE SI ACORDURI, SF SI PROIECT TEHNIC (22.08.2008)   ADMINISTRATIA IMOBILIARA ORADEA S.C. PROIECT BIHOR S.A. Valoare castigatoare: 274,061.00 (RON)
+EXPERT TEHN,AUDIT ENERGETIC,DOCUMENTA AVIZE SI ACORDURI, SF SI PROIECT TEHNIC (24.07.2008)   ADMINISTRATIA IMOBILIARA ORADEA S.C. PROIECT BIHOR S.A Valoare castigatoare: 200,328.00 (RON)
+EXPERT TEHN,AUDIT ENERGETIC,DOCUMENTA AVIZE SI ACORDURI, SF SI PROIECT TEHNIC (24.07.2008)   ADMINISTRATIA IMOBILIARA ORADEA S.C. PROIECT BIHOR S.A. Valoare castigatoare: 200637.00 (RON
+SERVICII DE PROIECTARE (02.06.2008)          INSPECTORATUL DE POLITIE AL JUDETULUI BIHOR SC PROIECT BIHOR SA Valoare castigatoare: 78,850.00 (RON)
+Elaborarea documentatiilor tehnico-economice aferente obiectivelor de investii. (19.02.2008)     MUNICIPIUL ORADEA S.C. CONTEMPORAN PROIECT S.R.L.
+S.C. CONTEMPORAN PROIECT S.R.L. Valoare castigatoare: 117,215.00 (RON)
+Modernizare DJ 797 A Bicaciu-Ianosda sector de la km 0+000 pâna la km 21+700, L=21,700 km, jud Bihor (17.02.2008) JUDETUL BIHOR      PROIECT BIHOR S.A.
+Valoare castigatoare: 142,300.00 (RON)
+Modernizare DJ 190F Sânlazar-DJ 191 sector de la km 4+200 pâna la km 9+800, L=5,600 km (14.02.2008) JUDETUL BIHOR    SC PROIECT BIHOR SA
+Modernizare DJ 767G Botean-Balaia ( DJ 767A) sector de la km 5+550 pâna la km 7+250, L=1,700 km (14.02.2008) JUDETUL BIHOR SC PROIECT BIHOR SA
+Valoare castigatoare: 24,900.00 (RON)
+Modernizare DJ 767F Cetariu – Cauaceu – (DJ 191) sector de la km 11+950 pâna la km 18+650,L=6,700 km (14.02.2008)   JUDETUL BIHOR    SC PROIECT BIHOR SA
+Valoare castigatoare: 79,900.00 (RON)
+Servicii de proiectare “Gradinita de copii” (29.01.2008)      COMUNA TINCA (PRIMARIA TINCA) SC PROIECT BIHOR SA ORADEA Valoare castigatoare: 125,889.00 (RON
+“Lucrari de proiectare SF pentru construire locuinte sociale, in Comuna Biharia, judetul Bihor.” (24.01.2008)             COMUNA BIHARIA S.C PROIECT BIHOR S.A.Valoare castigatoare: 34,350.00 (RON
+PROIECTARE “REPARATII CAPITALE LA CORP 1 SI CORP 2 SCOALA GENERALA IOAN SLAVICI” (18.10.2007)   MUNICIPIUL ORADEA    S.C. PROIECT BIHOR S.A. Valoare castigatoare: 82,920.03 (RON)
+PROIECTARE REVITALIZAREA CETATII ORADEA ÎN VEDEREA INTRODUCERII ÎN CIRCUITUL TURISTIC-CETATEA ORADEA (26.07.2007) MUNICIPIUL ORADEA S.C. PROIECT BIHOR S.A. Valoare castigatoare: 3,510,500.00 (RON)  |  Judet: Bihor  |
+5902    Proiectare reparatii capitale si amenajari interioare sediu nou Muzeul Tarii Crisurilor (17.07.2007) MUZEUL TARII CRISURILOR PROIECT BIHOR S.A.
+Valoare castigatoare: 2,316, 243.00 (RON)
 name=   Attila Cseke
 context=Camera Deputatilor, Judetul in care candideaza: Bihor, Colegiul 1: http://www.becparlamentare2008.ro/coleguni/bihor.pdf, Alianta/Partidul pentru care candideaza: UDMR
 source= http://verificaintegritatea.romaniacurata.ro/?p=5278
@@ -4110,11 +4176,22 @@ name=   Elena Udrea
 context=Camera Deputaților, Judetul in care candideaza: Neamț, Colegiul 4: http://www.becparlamentare2008.ro/coleguni/neamt.pdf, Alianta/Partidul pentru care candideaza: ARD-PDL
 source= http://verificaintegritatea.romaniacurata.ro/?p=5622
 cat=    Afaceri si contractele cu statul
-- În perioada 2003 – 2004,  Elena Udrea a încheiat cu RA-APPS, prin cabinetul individual de avocatură, 12 contracte de asistentă juridică în mai multe litigii încasând, în total, un onorariu de 2,35 miliarde lei vechi.
-- În perioada 2008 – 2011, SC CLAMARI TRADING IMPEX SRL, deţinută de Dorin Cocoş, soţul Elenei Udrea, a derulat două contracte cadru de furnizare cu Spitalul Clinic de Urgenţă Floreasca si Institutul Clinic Fundeni. Ambele contracte au fost atribuite în urma unor licitatii publice deschise.
+Dalli Exim Potrivit cotidianului “Evenimentul Zilei” in perioada 1995-2004 Dorin Cocos a fost asociat in fiorma SC Dalli Exim SRL.  Dorin Cocos impreuna cu tatal sau (intrat si el in Dalli Exim) si-au cedat actiunile unui anume Cerga Nastase, in data de 25 iunie 2004, la cateva zile dupa ce Elena Udrea a fost aleasa in Consiliul General al Muncipiului Bucuresti pe listele Aliantei D.A.  La sfarsitul lunii mai 1995, firma “Dalli Exim” a castigat licitatia organizata de Primaria Capitalei pentru administarea a 52 de parcari din zona centrala a orasului. “Dalli Exim” a castigat licitatia oferind municipalitatii 55,5% din incasari. Constractul a fost prelungit prin acte aditionale de toti primarii Capitalei, pana in 2018 dar a fost reziliat in 2008 de Sorin Oprescu.
+In 2003 cand pirmar general al Capitalei era Traian Basescu iar Dorin Cocos era inca actionar,  firma SC Dalli Exim SA a incheiat un contract de leasing imobiliar (http://www.consiliulconcurentei.ro/uploads/docs/items/id2767/decizii_2004_22.pdf) cu SC SERVICE CICLOP SA, al carei actionar unic este Consiliul General al Municipiului Bucuresti. Potrivit DECIZIEI nr. 22/14.01.2004 a Consiliului Concurentei “urmare a H.C.G.M.B. nr.180/09.10.2003, Parcajul ‘’Intercontinental’’ a trecut in administrarea SC DALLI EXIM SA. In baza contractului de leasing imobiliar nr. 1646/03.11.2003 incheiat intre SC SERVICE CICLOP SA si SC DALLI EXIM SA, dreptul de folosinta si de posesie asupra parcajului ‘’Intercontinental’’ a fost transmis acesteia din urma. De asemenea, prin Hotararea Consiliului de Administratie SC SERVICE CICLOP SA nr. 4/11.11.2003, toate celelalte parcaje, respectiv Favorit, 1 Mai(Compozitorilor), Timisoara, Orizont, Baba Novac si Liviu Rebreanu au fost preluate in administrare de catre SC DALLI EXIM SA in baza contractelor de asociere in participatiune nr. 1815, 1816, 1818, 1819, 1820 si 1821. La data de 02.10.2000 a fost incheiat intre SC DALLI EXIM SA si SC PRESTARI SERVICII SA Contractul de asociere in participatiune nr. 2522 avand ca obiect asocierea in vederea dezvoltarii unui program de investitii si exploatare a Parcajului subteran Bucur Obor. In prezent, acest parcaj se afla in proprietatea SC DALLI EXIM SA”.
+Potrivit www.firmepenet.ro  veniturile Dalli Exim S.A. au fost in continua crestere incepand cu anul 1999. Din anul 1999 pana in anul 2008, veniturile au crescut cu 13.680.043,00 RON, adica cu 1.026,38 %.
+In bilantul din anul 2008(ultimul bilant inregistrat), veniturile realizate de Dalli Exim S.A., au crescut cu 581.564,00 RON, adica cu 4,03 %, fata de anul precedent.
+Potrivit bilanturilor contabile depuse in perioada 1999-2004 Dalli Exim  a avut un profit net de 2,229,475 lei.
+RAAPPS Conducerea RA-APPS a precizat, in luna noiembrie 2006, ca, in perioada decembrie 2003 – octombrie 2004, intre regie si Cabinetul de avocatura Elena Udrea au fost incheiate 12 contracte de asistenta juridica, in valoare totala de 2,35 miliarde lei vechi, respectiv 235 000 lei,  contracte atribuite direct, fara licitatie. Contractele incheiate intre cele doua parti, in intervalul mentionat, au avut o valoare individuala cuprinsa intre 10 milioane lei vechi si 400 milioane lei vechi. Toate contractele au fost atribuite in mod direct, fara organizarea de licitatii publice. Majoritatea contractelor de asistenta juridica atribuite Cabinetului de avocatura Elena Udrea de catre RA-APPS au fost incheiate incepand cu luna iulie 2004, la doua saptamani dupa ce aceasta a fost numita in postul de consilier in cadrul Consiliului General al Municipiului Bucuresti (CGMB). (http://www.gandul.info/news/controlul-la-ra-apps-in-cazul-contractelor-cu-elena-udrea-ingreunat-de-quot-blocajul-informational-quot-275680).
+In septembrie 2009 intr-un comunicat de presa Elena Udrea a anuntat ca a decis sa returneze catre RA-APPS onorariile pe care le-am incasat, in perioada 2003 – 2004, pentru servicii pe care le-am prestat in favoarea regiei, in calitate de avocat. Ea a sustinut ca in 2008 ar fi  returnat catre RA-APPS aproape un miliard si jumatate de lei vechi, reprezentând onorariul incasat, mai putin taxele si impozitele aferente pe care le-am platit catre stat.
+Consumabile medicale În perioada 2008 – 2011, SC CLAMARI TRADING IMPEX SRL, deţinută de Dorin Cocoş, soţul Elenei Udrea, a derulat două contracte cadru de furnizare cu Spitalul Clinic de Urgenţă Floreasca si Institutul Clinic Fundeni. Ambele contracte au fost atribuite în urma unor licitatii publice deschise.
 Valoarea contractului cadru încheiat cu spitalul Floreasca, potrivit SEAP, a fost de 23.868.592,08 RON fără TVA. În declaratia de interese depusă în 2010, Elena Udrea a declarat suma de 558.907 RON,  aferentă contractelor subsecvente derulate în baza acordului cadru până la 19 ianuarie 2010
 Al doilea acord-cadru a fost încheiat cu Institutul Clinic Fundeni, în iulie 2008, pentru suma  de 8.664.105,00 lei fără TVA. În declaraţia de interese pe anul 2010 a Elenei Udrea apare suma de 5.937.609 lei, aferentă contractelor subsecvente de până în august 2010. (sursa: evz.ro)
-- 2009 – SC CLAMARI TRADING IMPEX SRL – Ministerul Apărării Nationale UM 02482 – contract de furnizare – negociere directă – 95.041,78 RON.
+A mai incheiat cu Spitalul Universitar de Urgenta Militar Central “Dr. Carol Davila urmatoarele contracte:
+REACTIVI (23.07.2009)  Spitalul Universitar de Urgenta Militar Central “Dr. Carol Davila CLAMARI TRADING IMPEX S.R.L. Valoare castigatoare:  95,041.78 lei
+Reactivi de laborator (08.01.2009) Spitalul Universitar de Urgenta Militar Central “Dr. Carol Davila” Valoare castigatoare:  159,841.99 lei
+MATERIALE SANITARE SI REACTIVI DE LABORATOR (20.06.2008)Spitalul Universitar de Urgenta Militar Central “Dr. Carol Davila” CLAMARI TRADING IMPEX S.R.L. Valoare castigatoare: 1,053,170.61  lei
+Reactivi (27.02.2008) Spitalul Universitar de Urgenta Militar Central “Dr. Carol Davila” CLAMARI TRADING IMPEX S.R.L. Valoare castigatoare: 125m823.32 (RON)
+Achizitie reactivi (12.02.2008) Spitalul Universitar de Urgenta Militar Central “Dr. Carol Davila” CLAMARI TRADING IMPEX S.R.L. Valoare castigatoare: 8,432.84 (RON)
 - Gala Bute – În 2011, Ministerul Dezvoltării Regionale si Turismului (MDRT) condus de Elena Udrea a încheiat un contract cu firma SC Europlus Computers SRL, detinută de presedintele Federatiei Române de Box (FRB), Rudel Obreja, care avea ca obiect promovarea brandului turistic al României în cadrul evenimentului sportiv “Gala Bute”, organizat de acceasi firmă a lui Obreja, în baza unui contract de exclusivitate încheiat cu FRB. Valoarea contractului era de 10.175.168 RON (aproape 2 milioane de euro).
 La data respectivă, ministrul Udrea sustinea că această sumă provine din fondurile europene disponibile în Programul National de Dezvoltare Regională – REGIO. În data de 1 februarie 2011, MDRT a plătit suma de 8.116.800 RON către firma lui Obreja iar pe 16 februarie a depus o cerere de rambursare a acestor bani din fonduri europene dar autoritatea de management a suspendat verificarea ei întrucât Departamentul de Luptă Anti-Fraudă (DLAF) a declansat o investigatie în acest caz.
 În urma verificărilor, DLAF a descoperit numeroase nereguli în derularea acestui contract, de la modul în care a fost aleasă firma lui Rudel Obreja – prin negociere directă, fără licitatie – si până la modul în care au fost cheltuiti banii – numai 21.700 de euro au fost cheltuiti pentru promovarea imaginii României (aproximativ 1,13% din valoarea contractului), restul sumelor primind alte destinatii. Raportul DLAF a fost transmis Directiei Nationale Anticoruptie (DNA) care a declansat o anchetă penală în acest caz.
@@ -5113,13 +5190,10 @@ name=   Sebastian Grapa
 context=Senat, Judetul in care candideaza: Brașov, Colegiul 1: http://www.becparlamentare2008.ro/coleguni/brasov.pdf, Alianta/Partidul pentru care candideaza: USL-PNL
 source= http://verificaintegritatea.romaniacurata.ro/?p=6775
 cat=    Afaceri si contractele cu statul
-Firma Distrikem SRL a facut afaceri cu institutii subordonate CJ Brasov in timp ce Grapa era consilier judetean:
+Firma Distrikem SRL a avut un contract cu  statul:
 Rafturi metalice si cutii din tabla pentru arhivare (24.09.2008)     Oficiul de Cadastru si Publicitate Imobilara Brasov Valoare castigatoare: 33600.00 (RON) cerere de oferta
-Potrivit presei locale in „Asociaţia pentru Promovarea şi dezvoltarea Turismului din Judeţul Braşov (APDT) infiintatat de Consiliul Judetean Brasov SC a incheiat cu Distrikem SRL contractul de execuţie numărul 69 pentru construcţia a două centre de informare turistica, la Săcele şi Sâmbăta de Sus. Valoarea contractului a fost stabilită la 376.266 lei.
-Tot potrivit presei locale firma SC Ebola SRL a incheiat contracte cu Consiliul Judetean Brasov: in 2006 in valoare de  851.224   de lei, in 2007 in valoare de 199.698 de lei, in 2008 de  250.383  de lei, iar in 2009 de   248.748 de lei.
-Sotia Grapa Monica este actionara la firma Sc Revecom SRL care a facut afaceri cu statulk:
-LUCRARI DE REABILITARE SI MODERNIZARE LA CASA MUNICIPALA DE CULTURA FAGARAS (14.08.2008)       PRIMARIA MUNICIPIULUI FAGARAS          SC REVECOM SRL Valoare castigatoare: 43384.92 (RON)
-Potrivit presei locale Revecom a primit de cla CJ  in perioada 2006-2009 contracte in valoare de 1695205 lei.
+Sotia Grapa Monica este actionara la firma Sc Revecom SRL care a incheiat un contract cu Primaria Fagaras, judetul Brasov:
+LUCRARI DE REABILITARE SI MODERNIZARE LA CASA MUNICIPALA DE CULTURA FAGARAS (14.08.2008)       PRIMARIA MUNICIPIULUI FAGARAS          SC REVECOM SRL Valoare castigatoare: 43384.92 lei.
 name=   Sebastian Grapa
 context=Senat, Judetul in care candideaza: Brașov, Colegiul 1: http://www.becparlamentare2008.ro/coleguni/brasov.pdf, Alianta/Partidul pentru care candideaza: USL-PNL
 source= http://verificaintegritatea.romaniacurata.ro/?p=6777
@@ -5722,11 +5796,6 @@ source= http://verificaintegritatea.romaniacurata.ro/?p=7718
 cat=    Afaceri si contractele cu statul
 Conform decaratiei de interese depusa in octombrie 2012, Tudor Chiuariu a primit, prin casa sa de avocatura “Chiuariu&Asociatii”, un contract de asistenta juridica de la SC EDU-TIM Consultanta Europeana SRL, in valoare de 20.028 lei. Contractul a fost semnat pe 26.06.2012 si se intinde pe 7 luni.
 SC EDU-TIM Consultanta Europeana SRL este beneficiarul contractului de finantare cu Autoritatea de Management pentru Programul Operational Sectorial Dezvoltarea Resurselor Umane din cadrul Ministerului Muncii cu titlul “Practica sa inveti, invata sa practici”.
-name=   Tudor Chiuariu
-context=Senat, Judetul in care candideaza: Mehedinți, Colegiul 2: http://www.becparlamentare2008.ro/coleguni/mehedinti.pdf, Alianta/Partidul pentru care candideaza: USL-PNL
-source= http://verificaintegritatea.romaniacurata.ro/?p=7720
-cat=    Condamnari si arestari
-In 2010, Tudor Chiuariu a fost trimis in judecata alaturi de fostul ministru al Comunicatiilor, Zsolt Nagy, in dosarul  “Posta Romana”. Cei doi sunt acuzati de abuz in serviciu, dupa ce au aprobat trecerea unui imobil din proprietatea Postei in proprietatea unei companii private, prejudiciul fiind de 8,6 milioane euro.
 name=   Viorel Palaşcă
 context=Camera Deputatilor, Judetul in care candideaza: Mehedinți, Colegiul 3: http://www.becparlamentare2008.ro/coleguni/mehedinti.pdf, Alianta/Partidul pentru care candideaza: USL-PNL
 source= http://verificaintegritatea.romaniacurata.ro/?p=7732
@@ -6668,3 +6737,589 @@ Senatorul Florin Constantinescu nu a trecut insa in declaratia de interese toate
 -         15.09.2011, ACK Fluid SRL, contract de la SC Modern Calator SA Botosani, 204.500 lei, obiect: modernizarea instalatiilor de verificare contoare de apa si de energie termica.
 -         4.04.2011, SC ACK SRL Pascani, contract primit de la Electrocentrale Bucuresti, Verificarea, intretinerea si repararea sistemelor de contorizare a energiei termice, 220.000 lei.
 03.08.2010, SC ACK SRL Pascani, contract de la Biroul Roman de Metrologie Legala, 2,2 milioane lei, obiect: stand pentru verificat contoare de apa rece/calda.
+name=   Gabriel Surdu
+context=Senat, Judetul in care candideaza: Iași, Colegiul 1: http://www.becparlamentare2008.ro/coleguni/iasi.pdf, Alianta/Partidul pentru care candideaza: ARD-PDL
+source= http://verificaintegritatea.romaniacurata.ro/?p=8898
+cat=    Traseism
+Gabriel Surdu si fratele fostului ministru al Agriculturii PDAR Victor Surdu au condus din anul 2000 filiala Iasi a PSDR.  In 2001 PSDR fuzioneaza cu PSD, partid pe listele caruia obtine in 2004 un post de consilier judetean in Iasi.
+In 2008, paraseste PSD si se inscrie in PDL, obtinand si functia de consilier local in Iasi.
+name=   Gabriel Surdu
+context=Senat, Judetul in care candideaza: Iași, Colegiul 1: http://www.becparlamentare2008.ro/coleguni/iasi.pdf, Alianta/Partidul pentru care candideaza: ARD-PDL
+source= http://verificaintegritatea.romaniacurata.ro/?p=8900
+cat=    Nepotism
+Este fratele fostului ministru al Agriculturi, Victor Surdu, cu ajutorul caruia a intrat in politica si afaceri si nasul candidatei USL-PSD Cristina Nichita.
+name=   Gabriel Surdu
+context=Senat, Judetul in care candideaza: Iași, Colegiul 1: http://www.becparlamentare2008.ro/coleguni/iasi.pdf, Alianta/Partidul pentru care candideaza: ARD-PDL
+source= http://verificaintegritatea.romaniacurata.ro/?p=8902
+cat=    Averea candidatilor
+Gabriel Surdu este unul dintre cei mai bogati oameni de afaceri din Iasi, cu o avere estimata la peste 10 milioane euro.
+Conform declaratiei de avere depusa in octombrie 2012, Gabriel Surdu detine doua apartamente, doua case si un spatiu comercial in Iasi, doua case in Suceava, si alte doua case in in satul Visani, comuna Barnova. De asemenea, Surdu Gabriel are in proprietate 10 terenuri: patru in comuna Barnova (16.400 mp, 4 hectare, 1.538 mp toate intravilan si 7.000 mp extravilan), doua in Iasi (2,6 ha intravilan si 2.722 mp extravilan) trei terenuri in judetul Suceava (22.000 mp intravilan, 11.000 mp forestier, 2.581 mp extravilan) si un teren in comuna Aroneanu de 733 mp extravilan.
+Familia Surdu mai detine bijuterii in valoare de 155.000 euro si o colectie de ceasuri de 110.000 euro.
+In 2011 si 2012, Gabriel Surdu a donat doua case copiilor sai si a vandut doua terenuri catre grupul sau de firme Terramold.
+El are doua credite de 1,3 milioane euro si 35.000 euro, si a dat imprumuturi catre 7 firme in valoare de 15 milioane (fara sa precizeze moneda) si 647.000 catre o persoana fizica (Valerian Rebenciuc).
+name=   Gabriel Surdu
+context=Senat, Judetul in care candideaza: Iași, Colegiul 1: http://www.becparlamentare2008.ro/coleguni/iasi.pdf, Alianta/Partidul pentru care candideaza: ARD-PDL
+source= http://verificaintegritatea.romaniacurata.ro/?p=8904
+cat=    Afaceri si contractele cu statul
+Garbriel Surdu este patronul grupului de firme Terramold, din care fac parte Terramold  SRL, Terramold Invest SRL, Terramold Medical SRL, Terramold Construct SRL, Terramold Protect SRL, Terramold Holiday SRL.
+De asemenea, el detine companiile Forest Hills Gardens SRL, SC Avand SRL
+In declaratia de interese, el a trecut mai multe contracte primite de firmele sale de la companii si institutii ale statului:
+-         aprilie 2009,  SC Terramold SRL, contract in valoare de 108.900 lei primit de la Institutul de Chimie Macromoleculara Iasi, servicii de consultanta.
+-         martie 2010, SC Terramold SRL, contract in valoare de 1,8 milioane lei, finantare nerambursabila POSDRU de la Ministerul Muncii.
+-         mai 2012,  SC Terramold Medical SRL, finantare nerambursabila de la Ministerul Dezvoltarii in valoare de 662.576 lei.
+Gabriel Surdu a mai facut, potrivit SEAP, si alte contracte cu statul in mandatul de consilier local pe care nu le-a declarat in declaratia de avere:
+Directia Judeteana Pentru Sport si Tineret Iasi lucrari suprafata sportiva multifunctionala valoare contract 127.806 lei,
+Institutul National de Statistica lucrari de constructii in valoare de
+2,4 milioane lei
+Institutul de Sanatate Publica Iasi servicii de consultanta pentru management proiect in valoare de  100.000 lei
+Agentia Judeteana pentru Ocuparea Fortei de Munca Iasi servicii de consultanta si asistenta, 59.126 lei
+Primaria Falticeni 86.000 lei, servicii de proiectare tehnica
+Primaria Milisauti servicii de proiectare si consultanta, 48.000 lei
+name=   Gheorghe Emacu
+context=Camera Deputatilor, Judetul in care candideaza: Iași, Colegiul 8: http://www.becparlamentare2008.ro/coleguni/iasi.pdf, Alianta/Partidul pentru care candideaza: USL-UNPR
+source= http://verificaintegritatea.romaniacurata.ro/?p=8917
+cat=    Averea candidatilor
+Gheorghe Emacu detine trei terenuri agricole in Iasi, unul intravilan in Prahova de 1.750 mp, dar si un loc de parcare in Bucuresti.
+In declaratia de avere sunt trecute trei apartamente, doua in Iasi, pe numele sotiei, Elena Emacu, si un apartament de 90 mp in Bucuresti. Anul acesta, Gheorghe Emacu a vandut doua autoturisme Audi, pe care a obtinut 14.000 de euro. Gheorghe Emacu nu are datorii, declarand un depozit de 21.000 de lei si un imprumut in valoare de 32.000 de euro acordat unei persoane fizice.
+Anul trecut, Gheorghe Emacu a incasat peste 55.000 de lei din indemnizatia de secretar de stat.
+Sotia acestuia a castigat 36.000 de lei ca director al Fundatiei Hecuba, infiintata de Consiliul Local Iasi, plus aproximativ 45.000 de lei ca manager de proiect la Directia de Asistenta Comunitara.
+name=   Gheorghe Tătaru
+context=Camera Deputatilor, Judetul in care candideaza: Iași, Colegiul 4: http://www.becparlamentare2008.ro/coleguni/iasi.pdf, Alianta/Partidul pentru care candideaza: ARD-PDL
+source= http://verificaintegritatea.romaniacurata.ro/?p=8932
+cat=    Traseism
+A fost membru al PNL pana in 2012, cand a trecut la PDL, dupa ce a pierdut alegerile pentru un nou mandat de primar al orasului Targu Frumos.
+name=   Gheorghe Tătaru
+context=Camera Deputatilor, Judetul in care candideaza: Iași, Colegiul 4: http://www.becparlamentare2008.ro/coleguni/iasi.pdf, Alianta/Partidul pentru care candideaza: ARD-PDL
+source= http://verificaintegritatea.romaniacurata.ro/?p=8934
+cat=    Averea candidatilor
+Potrivit ultimei sale declaratii de avere, Gheorghe Tataru detine o casa de 189 mp si un apartament in orasul Targu Frumos, judetul Iasi, precum si un teren de 288 mp. Are un credit de 25.000 euro si in ultimul an fiscal a castigat 39.000 lei, pe cand detinea functia de primar in Tragu Frumos, iar sotia a avut un salariu de 16.000 lei, fiind referent la Directia Sanitar Veterinara.
+name=   Grigore Crăciunescu
+context=Camera Deputatilor, Judetul in care candideaza: Iași, Colegiul 11: http://www.becparlamentare2008.ro/coleguni/iasi.pdf, Alianta/Partidul pentru care candideaza: USL-PNL
+source= http://verificaintegritatea.romaniacurata.ro/?p=8946
+cat=    Averea candidatilor
+Potrivit declaratiei de avere, familia Craciunescu detine trei terenuri in judetul Suceava, doua dintre acestea fiind pe numele sotiei, Olga, un apartament si o casa de locuit. Candidatul USL declara un credit de aproximativ 60.000 de lei, dar si plasamente de peste 200.000 de lei, la societatea Interdentis. Anul trecut, fostul edil declara un venit de 33.000 de lei de la Primaria Pascani, iar firma Interdentis a adus familiei venituri de 220.000 lei.
+name=   Liliana Romaniuc
+context=Camera Deputatilor, Judetul in care candideaza: Iași, Colegiul 5: http://www.becparlamentare2008.ro/coleguni/iasi.pdf, Alianta/Partidul pentru care candideaza: ARD-PDL
+source= http://verificaintegritatea.romaniacurata.ro/?p=8958
+cat=    Averea candidatilor
+Potrivit ultimei sale declaratii de avere, Liliana Romaniuc detine o casa de 240 mp in comuna Valea Lupului, unde mai are doua terenuri intravilan de 500 mp si 1.000 mp, doua autoturisme (Renault Laguna si Ford Fiesta), un cont bancar de 41.000 lei si un credit de 21.000 euro.
+name=   Liviu Bulgaru
+context=Camera Deputatilor, Judetul in care candideaza: Iași, Colegiul 6: http://www.becparlamentare2008.ro/coleguni/iasi.pdf, Alianta/Partidul pentru care candideaza: ARD-PDL
+source= http://verificaintegritatea.romaniacurata.ro/?p=8970
+cat=    Averea candidatilor
+Potrivit ultimei sale declaratii de avere, Liviu Bulgaru detine un apartament si un spatiu commercial, un Audi A4, o colectie de tablouri de 10.000 euro, un credit de 14.000 euro.
+La capitolul venituri, Liviu Bulgaru a trecut un salariu de 46.000 lei de la Agentia de Plati pentru Dezvoltare Rurala si Pescuit din Iasi.
+name=   Maria Aldea
+context=Camera Deputatilor, Judetul in care candideaza: Iași, Colegiul 9: http://www.becparlamentare2008.ro/coleguni/iasi.pdf, Alianta/Partidul pentru care candideaza: ARD-PDL
+source= http://verificaintegritatea.romaniacurata.ro/?p=8978
+cat=    Averea candidatilor
+Potrivit ultimei sale declaratii de avere, Maria Aldea detine o casa in Iasi cu o suprafata de 400 mp si patru terenuri, tablouri ale unor pictori romani evaluate la 6.000 euro, bijuterii de 10.000 euro. In 2012, avocat a vandut un apartament pentru suma de 200.000 euro.
+Are trei conturi bancare cu 332.000 lei si 45.000 euro si a imprumutat o persoana fizica cu suma de 180.000 euro.
+In ultimul an fiscal, Maria Aldea a castigat din avocatuta peste 95.000 lei.
+name=   Marin Burlea
+context=Senat, Judetul in care candideaza: Iași, Colegiul 5: http://www.becparlamentare2008.ro/coleguni/iasi.pdf, Alianta/Partidul pentru care candideaza: USL-PSD
+source= http://verificaintegritatea.romaniacurata.ro/?p=8989
+cat=    Averea candidatilor
+Marin Burlea detine un apartament, o casa si un spatiu comercial in Iasi, o casa in localitatea Ceahlau, Neamt, un teren agricol de 17.362 mp in comuna Vidra, sat Cretesti (Ilfov) si un teren intravilan de 510 mp in comuna Aroneanu, sat Dorobanti, judetul Iasi, trei autoturisme (Jeep Wrangler, Chevrolet Spark, Chrysler).
+Medicul are de returnat trei credite de 120.000 lei si 130.000 euro.
+La capitolul venituri, Marin Burlea a mentionat 65.000 lei-salariu de profesor la UMF Iasi, 59.000 lei-salariu sef sectie Spitaul Sf. Maria Iasi, 4.122 lei primit de la SC Helicomed SRL, reprezentand prestari servicii, 7.500 lei reprezentand chirie de la SC Trax-Strap Silverstru Iasi, 1.800 lei drepturi de autor, 500 lei (Laboratoire Innotech International), 400 lei – concesionare drepuri de autor, 11.946 lei si 13.653 lei (Romania Tavel Plus SRL), 2.070 lei (SC Danone PDPA SRL).
+name=   Marin Burlea
+context=Senat, Judetul in care candideaza: Iași, Colegiul 5: http://www.becparlamentare2008.ro/coleguni/iasi.pdf, Alianta/Partidul pentru care candideaza: USL-PSD
+source= http://verificaintegritatea.romaniacurata.ro/?p=8992
+cat=    Afaceri si contractele cu statul
+Marin Burlea este actionar la SC SCAN Expert SRL.
+Compania apare in baza de date a SEAP cu doua contracte primite de la Spitalul Municipal de Urgenta Roman.
+Astfel, pe 22 iunie 2012, SCAN Expert SRL a castigat o licitatie de la Spitalul Municipal de Urgenta Roman, in valoare de 512.166 lei, avand ca obiect “Servicii de investigatii imagistice”.
+Aceeasi companie a primit in februarie 2011, tot de la Spitalul Municipal de Urgenta Roman, un contract in valoare de 269.106 lei, reprezentand servicii de investigatii radiologice si imagistice.
+name=   Marius Spînu
+context=Camera Deputatilor, Judetul in care candideaza: Iași, Colegiul 10: http://www.becparlamentare2008.ro/coleguni/iasi.pdf, Alianta/Partidul pentru care candideaza: ARD-PDL
+source= http://verificaintegritatea.romaniacurata.ro/?p=9003
+cat=    Funcții inainte de 1989
+1988-1990, profesor de matematica.
+name=   Marius Spînu
+context=Camera Deputatilor, Judetul in care candideaza: Iași, Colegiul 10: http://www.becparlamentare2008.ro/coleguni/iasi.pdf, Alianta/Partidul pentru care candideaza: ARD-PDL
+source= http://verificaintegritatea.romaniacurata.ro/?p=9007
+cat=    Averea candidatilor
+Potrivit declaratiei de avere, Marius Spinu detine un teren de 1.000 de metri patrati, un apartament in orasul Harlau si un autoturism Audi A6, fabricat in anul 2007. In anul 2008, Marius Spinu a imprumutat de la doua persoane fizice suma de 5.000 de euro.
+name=   Marius Spînu
+context=Camera Deputatilor, Judetul in care candideaza: Iași, Colegiul 10: http://www.becparlamentare2008.ro/coleguni/iasi.pdf, Alianta/Partidul pentru care candideaza: ARD-PDL
+source= http://verificaintegritatea.romaniacurata.ro/?p=9009
+cat=    Afaceri si contractele cu statul
+Surse din PD-L au afirmat, potrivit presei centrale, că preşedintele Traian Băsescu l-a criticat pe Marius Spînu pentru că şi-ar fi condiţionat votul la o  moţiune de cenzură de numirea lui Mihai Arcana director la Vama Regionala Iasi. Marius Spinu  a recunoscut ca a discutat cu seful ANAF, Sorin Blejnar, despre “situatia neclara” de la Vama Regionala Iasi si ca are o relatie apropiata cu Mihai Arcana, fiul sau botezindu-i acestuia copilul. El a negat insa neaga ca si-ar fi negociat votul pe motiunea de cenzura si a afirmat ca sprijinul sprijinul pe care i l-a oferit lui Arcana a fost unul transparent, asumat de intreaga filiala judeteana.
+name=   Marius Spînu
+context=Camera Deputatilor, Judetul in care candideaza: Iași, Colegiul 10: http://www.becparlamentare2008.ro/coleguni/iasi.pdf, Alianta/Partidul pentru care candideaza: ARD-PDL
+source= http://verificaintegritatea.romaniacurata.ro/?p=9011
+cat=    Atitudini discriminatoare
+28.11. 2011 Interviu acordat cotidianului “Gandul” “Nu am văzut homosexual care să se ducă să-şi facă tratamentul care există la ora aceasta ca să îşi înăbuşe aceste porniri. Aici vorbim despre o ramură a homosexualilor, vorbim de pedofilie, atentatul asupra unor copii mici, nu printr-un accept reciproc şi aici se poate discuta, eu nu sunt de acord nici măcar cu homosexualitatea, înţeleg anumite lucruri, sunt deschis la minte dar se trece peste o limită peste care eu personal nu aş putea trece”.
+“Gandul” consemneaza ca in cadrul interviului Marius Spanu ar fi arfirmat ca “nu este normal sa fii homosexual”
+CNCD nu s-a pronuntat in acest caz.
+Asociatia ACCEPT si-a exprimat ingrijorarea cu privire la caracterul iresponsabil al declaratiilor facute de parlamentarul Marius Spanu, in care acesta pune semnul egal intre homosexualitate si pedofilie, savarsind astfel o grava confuzie intre cei doi termeni. Prin faptul ca astfel de declaratii aduc atingere demnitatii si prejudicii de imagine persoanelor LGBT din Romania, Asociatia ACCEPT solicita domnului parlamentar Marius Spanu sa-si retraga afirmatiile cu privire la asocierea dintre homosexualitate si pedofilie. Asocierea deliberata dintre pedofilie si homosexualitate este iresponsabila si in contradictie atat cu evidentele stiintifice, cat si cu legislatia romana, considera Accept.
+name=   Mihaela Popa
+context=Senat, Judetul in care candideaza: Iași, Colegiul 4: http://www.becparlamentare2008.ro/coleguni/iasi.pdf, Alianta/Partidul pentru care candideaza: USL-PNL
+source= http://verificaintegritatea.romaniacurata.ro/?p=9023
+cat=    Traseism
+PNL, PDL, PNL.
+name=   Mihaela Popa
+context=Senat, Judetul in care candideaza: Iași, Colegiul 4: http://www.becparlamentare2008.ro/coleguni/iasi.pdf, Alianta/Partidul pentru care candideaza: USL-PNL
+source= http://verificaintegritatea.romaniacurata.ro/?p=9025
+cat=    Averea candidatilor
+Mihaela Popa detine doua apartamente si o casa in Iasi si un teren de 143 mp intravilan in Vaslui, doua autoturisme (Volkswagen si Fiat Panda). In 2011, a vandut un apartament pentru 33.000 euro si un autoturism Renault pentru 8.200 de lei. Detine sase conturi bancare cu 21.000 lei si 30.000 euro. De la Parlament a castigat 61.900 lei-indemnizatia de senator si 22.185 lei-diurne. Sotul a castigat aproape 85.000 lei, ca sef interimar la OTIMMC Iasi, lector si expert, plus  17.305 lei de la SC Consultanta Antreprenoriala Europeana SRL, unde detine 100% din actiuni.
+name=   Mugur Cozmanciuc
+context=Camera Deputatilor, Judetul in care candideaza: Iași, Colegiul 1: http://www.becparlamentare2008.ro/coleguni/iasi.pdf, Alianta/Partidul pentru care candideaza: USL-PNL
+source= http://verificaintegritatea.romaniacurata.ro/?p=9036
+cat=    Averea candidatilor
+Potrivit ultimei sale declaratii de avere, Mugur Cozmanciuc detine doua apartamente in Iasi si unul in Suceava, un teren agricol de 1.400 mp in comuna Barnova si unul de 5.684 mp in comuna Rediu si un teren intravilan de 1.482 mp in comuna Pojorata (Suceava); bijuterii, icoane si tablouri de 5.000 euro.
+In 2011, a vandut un teren catre SC Estern Publishing SRL pentru 10.000 lei, si a acordat un imprumut de 265.000 lei aceleiasi companii, plus 35.000 euro unor personae fizice. In acelasi timp, el luat sapte imprumuturi de la banci si persoane fizice, ce insumeaza 130.000 euro si 70.000 lei.
+In ultimul an fiscal, Mugur Cozmanciuc a avut urmatoarele venituri: 14.000 lei (consilier judetean), 22.000 lei (consilier juridic la Asociatia Egreta), 13.000 lei (consilier juridic la SC Development Trening Consultig SRL), 15.000 lei (consilier juridic la Asociatia Indeco), 41.000 lei (director marketing la CET Iasi), 4.512 lei (director comercial la SC Dalkia Romania SA Iasi), 258 lei (consilier juridic la SC Eastern Publishing SRL).
+Sotia este comisar la Garda Financiara, incasand un salariu de 19.664 lei pe an.
+name=   Neculai Răţoi
+context=Camera Deputatilor, Judetul in care candideaza: Iași, Colegiul 5: http://www.becparlamentare2008.ro/coleguni/iasi.pdf, Alianta/Partidul pentru care candideaza: USL-PSD
+source= http://verificaintegritatea.romaniacurata.ro/?p=9044
+cat=    Funcții inainte de 1989
+In 1978 a devenit instructor teritorial la “Comitetul Judetean Iasi”, apoi  presedinte al Consiliului Popular Tg. Frumos (198)) si presedinte al Consiliului Popular Pascani.
+A fost primar al Pascaniului intre anii 1981 si 1990.
+name=   Neculai Răţoi
+context=Camera Deputatilor, Judetul in care candideaza: Iași, Colegiul 5: http://www.becparlamentare2008.ro/coleguni/iasi.pdf, Alianta/Partidul pentru care candideaza: USL-PSD
+source= http://verificaintegritatea.romaniacurata.ro/?p=9049
+cat=    Averea candidatilor
+Potrivit ultimei sale declaratii de avere, Neculai Ratoi are cinci terenuri, ultimul, de 1,5 hectare, fiind achizitionat in anul 2011. Are un apartament si o casa, ultima avand suprafata de 690 metri patrati in orasul Pascani. In anul 2011, pe langa venitul de la Camera Deputatilor de 50.000 lei, a incasat din pensii suma de 35.340 de lei si 5.000 lei din exploatari agricole.
+In perioada 2005-2008, Neculai Ratoi a vandut patru terenuri, toate in municipiul Pascani, venitul total incasat ridicandu-se la aproximativ 200.000 de lei.
+name=   Nicuşor Păduraru
+context=Camera Deputatilor, Judetul in care candideaza: Iași, Colegiul 12: http://www.becparlamentare2008.ro/coleguni/iasi.pdf, Alianta/Partidul pentru care candideaza: ARD-PDL
+source= http://verificaintegritatea.romaniacurata.ro/?p=9063
+cat=    Traseism
+Membru PNL pana in 2008, dupa care a trecut la PDL.
+name=   Nicuşor Păduraru
+context=Camera Deputatilor, Judetul in care candideaza: Iași, Colegiul 12: http://www.becparlamentare2008.ro/coleguni/iasi.pdf, Alianta/Partidul pentru care candideaza: ARD-PDL
+source= http://verificaintegritatea.romaniacurata.ro/?p=9065
+cat=    Averea candidatilor
+Potrivit declaratiei de avere, Nicusor Paduraru detine doua apartamente, unul in municipiul Iasi, iar celalalt in Onesti, judetul Bacau, si un teren de 1.651 mp in comuna Aroneanu, judetul Iasi. Mai are un autoturism Peugeot 508, fabricat in anul 2011. In martie 2011 a contractat de la Banca Transilvania un credit in valoare de 83.000 de lei, iar in martie 2012 a luat un alt credit de la aceeasi banca in valoare de 17.500 de lei.
+name=   Niţă Dermidie
+context=Senat, Judetul in care candideaza: Iași, Colegiul 3: http://www.becparlamentare2008.ro/coleguni/iasi.pdf, Alianta/Partidul pentru care candideaza: ARD-PDL
+source= http://verificaintegritatea.romaniacurata.ro/?p=9076
+cat=    Averea candidatilor
+Niţă Dermidie detine un apartament in Pascani si are in conturi 8.000 euro. In ultimul an foscal, el a castigat 52.000 lei in functia de director general al SC Scudas SA Pascani, iar sotia 16.500 lei ca inginer la SC Siretul SA Pascani.
+name=   Petru Movilă
+context=Camera Deputatilor, Judetul in care candideaza: Iași, Colegiul 3: http://www.becparlamentare2008.ro/coleguni/iasi.pdf, Alianta/Partidul pentru care candideaza: ARD-PDL
+source= http://verificaintegritatea.romaniacurata.ro/?p=9087
+cat=    Averea candidatilor
+Petru Movila are sase terenuri, doua dintre acestea fiind achizitionate in actualul mandat parlamentar. Are trei autoturisme, ultimul fiind cumparat in 2011, si detine bijuterii si obiecte de arta in valoare totala de peste 20.000 de euro. De asemenea, el are si 53.850 de euro in conturi. In ultima sa declaratia de avere apare si suma de 97.500 de euro, reprezentand cadourile primite la nunta de anul trecut.
+La capitolul venituri, a trecut indemnizatia de deputat-61.000 lei, si veniturile sotiei: 36.000 lei de la Spitalul Sf. Spiridon Iasi si 7.928 lei de la Agentia Nationala de Transplant.
+name=   Petru Movilă
+context=Camera Deputatilor, Judetul in care candideaza: Iași, Colegiul 3: http://www.becparlamentare2008.ro/coleguni/iasi.pdf, Alianta/Partidul pentru care candideaza: ARD-PDL
+source= http://verificaintegritatea.romaniacurata.ro/?p=9089
+cat=    Afaceri si contractele cu statul
+Este cercetat de procurorii DNA intr-un dosar de coruptie, respectiv pentru savarsirea infractinii de instigare la abuz in serviciu. El este acuzat ca a  intervenit la fostul sef al Politiei Rutiere Iasi, Mihai Pintilei, in favoarea unei cunostinte care ar fi comis o abatere in trafic.
+name=   Radu Ionel Ursanu
+context=Camera Deputatilor, Judetul in care candideaza: Iași, Colegiul 7: http://www.becparlamentare2008.ro/coleguni/iasi.pdf, Alianta/Partidul pentru care candideaza: ARD-PDL
+source= http://verificaintegritatea.romaniacurata.ro/?p=9101
+cat=    Averea candidatilor
+Potrivit declaratiei de avere, Radu Ionel Ursanu are un apartament si o casa de 200 mp, un teren intravilan de 4.000 mp in comuna Ciurea si un teren extravilan de 4.013 mp, un autoturism VW Passat, are cinci credite de 135.000 euro si 72.000 lei.
+Este administrator si actionar la SC Small 8 Big Events si detine 50% din actiunile Santos Mag SRL.
+name=   Radu Ionel Ursanu
+context=Camera Deputatilor, Judetul in care candideaza: Iași, Colegiul 7: http://www.becparlamentare2008.ro/coleguni/iasi.pdf, Alianta/Partidul pentru care candideaza: ARD-PDL
+source= http://verificaintegritatea.romaniacurata.ro/?p=9103
+cat=    Afaceri si contractele cu statul
+SC Small 8 Big Events a primit in 2012 de la Agentia Judeteana pentru Ocuparea Fortei de Munca un contract reprezentand prestari servicii, in valoare de 46.270 lei, in derulare pe o perioada de 18 luni.
+name=   Relu Fenechiu
+context=Camera Deputatilor, Judetul in care candideaza: Iași, Colegiul 2: http://www.becparlamentare2008.ro/coleguni/iasi.pdf, Alianta/Partidul pentru care candideaza: USL-PNL
+source= http://verificaintegritatea.romaniacurata.ro/?p=9114
+cat=    Averea candidatilor
+Detine sase terenuri, dintre care doua intravilan, unul in Abrud, de 4.500 metri patrati si celalalt la Rosia Montana, cu o suprafata de 10.200 de metri patrati.
+Parlamentarul si-a construit in 2010 si 2006 doua case in municipiul Iasi, de 343 mp si 160 mp. Acesta si-a mai cumparat si o casa de vacanta tot in judetul Iasi in 2003. In plus, mai detine o casa de vacanta in judetul Bacau si o alta casa in judetul Alba, unde mai are si un apartament.
+Deputatul detine trei autoturisme, un Mercedes clasa CL din 2007 a carui pret de achizitie a fost de 113.000 de euro, un BMW din 2009 si un Hyundai din 2006.
+Parlamentarul se afla si in topul obiectelor de lux. Acesta detine bijuterii si obiecte de valoare de 80.000 de euro, dobândite intre 1996 si 2007.
+Mai are doua conturi bancare cu peste 40.000 lei si a investit in cele doua firme pe care le detine, Fene Grup SRL si SC La Rocca SRL, 288.000 lei si 50.000 lei.
+La capitolul venituri, Relu Fenechiu a trecut indemnizatia de deputat – 55.488 de lei si dividende (neridicate) in cuantum de 195.869 lei de la SC Tehnorom SRL, iar sotia, Mariana Daniela Fenechiu, a avut un salariu de 21.408 lei de la SC Integra Business Consulting SRL.
+In 2010, deputatul PNL a primit 1,95 milioane de lei, dividende de la firmele la care este asociat, Fene Grup si Tehnorom.
+name=   Relu Fenechiu
+context=Camera Deputatilor, Judetul in care candideaza: Iași, Colegiul 2: http://www.becparlamentare2008.ro/coleguni/iasi.pdf, Alianta/Partidul pentru care candideaza: USL-PNL
+source= http://verificaintegritatea.romaniacurata.ro/?p=9116
+cat=    Afaceri si contractele cu statul
+Prin compania sa, Fene Grup SRL, deputatul liberal a primit contracte de la institutii publice situate in colegiul sau electoral:
+Spitalul Clinic de Urgenta Sfanta Maria
+anul 2008, contract lucrari, valoarea 540.000 lei
+Primaria Municipiului Iasi
+anul 2008, contract lucrari, 650.000 lei
+Inspectoratul Scolar Judetean Iasi
+anul 2009, lucrari la o gradinita, 3 milioane lei)
+Universitatea Ion Ionescu de la Brad
+anul 2008, lucrari la o editura, 600.000 lei
+Comuna Baltati-Iasi
+anul 2010, contract lucrari, valoare 680.000 lei
+Consiliul Judetean Iasi
+anul 2010, valoare 4,5 milioane lei
+CFR SA
+octombrie 2010, contract executie lucrari, 200.000 lei
+septembrie 2012, contract executie lucrari, 23.840 lei
+martie 2012, contract executie lucrari, 330.971 lei
+Spitalul Clinic de Recuperare Iasi (august 2012, contract executie lucrari, 158.366 lei)
+Spitalul Clinic Judetean de Urgenta Sf. Spiridon Iasi
+august 2012, contract de lucrari, 253.132 lei
+octombrie 2012, contract de lucrari, 20.250 lei
+Ministerul Comunicatiilor (noiembrie 2011, contract de finantare, 121.717 lei
+In luna iunie 2012, deputatul PNL Relu Fenechiu a fost trimis in judecata de DNA alaturi de trei fosti directori ai Sucursalei de Intretinere si Servicii Energetice Electrice (SISEE) Moldova, fiind acuzati de complicitate la abuz in serviciu in forma calificata si continuata (39 acte materiale) si complicitate la abuz in serviciu contra intereselor publice. Procurorii sustin ca firmele lui Relu Fenechiu (SC La Rocca SRL, Fene Grup SA) ar fi cumparat cu 20 de miliarde de lei vechi zeci de trasformatoare, pe care le-ar fi revandut societatii Electrica Moldova la suprapret.
+name=   Sorin Avram Iacoban
+context=Camera Deputatilor, Judetul in care candideaza: Iași, Colegiul 10: http://www.becparlamentare2008.ro/coleguni/iasi.pdf, Alianta/Partidul pentru care candideaza: USL-PSD
+source= http://verificaintegritatea.romaniacurata.ro/?p=9128
+cat=    Averea candidatilor
+Potrivit declaratiei de avere, Sorin Iacoban detine un apartament in Iasi si a obtinut in ultimul an fiscal 32.000 lei de la Universitatea Gh. Asachi din Iasi.
+name=   Sorin Lazăr
+context=Senat, Judetul in care candideaza: Iași, Colegiul 2: http://www.becparlamentare2008.ro/coleguni/iasi.pdf, Alianta/Partidul pentru care candideaza: USL-PSD
+source= http://verificaintegritatea.romaniacurata.ro/?p=9139
+cat=    Traseism
+PDAR, PSD.
+name=   Sorin Lazăr
+context=Senat, Judetul in care candideaza: Iași, Colegiul 2: http://www.becparlamentare2008.ro/coleguni/iasi.pdf, Alianta/Partidul pentru care candideaza: USL-PSD
+source= http://verificaintegritatea.romaniacurata.ro/?p=9141
+cat=    Nepotism
+Si-a angajat fiul in biroul sau parlamentar din Iasi.
+name=   Sorin Lazăr
+context=Senat, Judetul in care candideaza: Iași, Colegiul 2: http://www.becparlamentare2008.ro/coleguni/iasi.pdf, Alianta/Partidul pentru care candideaza: USL-PSD
+source= http://verificaintegritatea.romaniacurata.ro/?p=9143
+cat=    Averea candidatilor
+Sorin Constantin Lazar detine sapte terenuri, toate in localitatea Strunga, unde locuieste. Unul dintre terenuri are suprafata de 75.000 de metri patrati, fiind detinut, din anul 1991, in co-proprietate cu alte cinci persoane. Alte trei terenuri, avand suprafata totala de peste 15.000 de metri patrati, le-a achizitionat in anul 2009, iar celelalte trei le-a cumparat in perioada 1999-2004, conform ultimei sale de avere. De asemenea, el are o casa in Strunga si doua autoturisme, achizitionate inainte de a deveni senator. Are de returnat un credit bancar in valoare de 48.000 de lei, contractat in anul 2011. Venitul familiei senatorului PSD s-a ridicat, in anul 2011, la aproximativ 84.000 de lei.
+Conform declaratiei de interese, senatorul are 40% din actiunile SC Bogdana Lac SRL Strunga.
+name=   Sorin Lazăr
+context=Senat, Judetul in care candideaza: Iași, Colegiul 2: http://www.becparlamentare2008.ro/coleguni/iasi.pdf, Alianta/Partidul pentru care candideaza: USL-PSD
+source= http://verificaintegritatea.romaniacurata.ro/?p=9145
+cat=    Incompatibilitate
+In noiembrie 2011, Agentia Nationala de Integritate a sesizat Parchetul de pe langa Inalta Curte de Casatie si Justitie in vederea cercetarii senatorului PSD Sorin Constantin Lazar pentru savarsirea infractiunii de conflict de interese, dupa ce acesta si-a angajat ilegal fiul in cadrul biroului sau parlamentar din Iasi.
+Beneficiul patrimonial obtinut de catre fiul senatorului PSD a fost de 6.434 lei.
+name=   Varujan Vosganian
+context=Senat, Judetul in care candideaza: Iași, Colegiul 1: http://www.becparlamentare2008.ro/coleguni/iasi.pdf, Alianta/Partidul pentru care candideaza: USL-PNL
+source= http://verificaintegritatea.romaniacurata.ro/?p=9157
+cat=    Averea candidatilor
+Varujan Vosganian detine un teren de 1.250 de metri patrati in localitatea Voluntari, dobandit in 2005. In ultima sa declaratie de avere mai apar un apartament in Bucuresti si doua case in localitatile Cotofenesti, respectiv Voluntari, imobilele fiind trecute pe numele sotiei sale. Are depozite in banci in valoare totala de 167.000 de lei, deschise in perioada 2007-2011. In anul 2007, a contractat un imprumut de la Alpha Bank, in valoare de 130.000 de euro.
+La capitolul venituri, Varujan Vosganian a trecut indemnizatia de senator-66.000 lei, 51.934 lei-presedite al Uniunii Armenilor din Romania, 63.562 lei-primvicepresedinte Uniunea Scriitorilor din Romania, 22.068 lei-cercetator la Institutul National de Cercetari Economice, 15.000 lei-drepturi autor, 17.350 lei (legea recunostinte, suma donata integral).
+Iar sotia a castigat 37.000 lei-conferentiar universitar la Universitatea Nationala de Muzica, 5.000 lei-drepturi autor.
+Detine 99% din actiunile SC Euroeconomic SA.
+name=   Vasile Mocanu
+context=Camera Deputatilor, Judetul in care candideaza: Iași, Colegiul 4: http://www.becparlamentare2008.ro/coleguni/iasi.pdf, Alianta/Partidul pentru care candideaza: USL-PSD
+source= http://verificaintegritatea.romaniacurata.ro/?p=9170
+cat=    Averea candidatilor
+Potrivit ultimei sale declaratii de avere, Vasile Mocanu detine sapte terenuri, o vila de 371 metri patrati si o alta casa de 117 mp in comuna ieseana Ion Neculce, precum si doua autoturisme. In acest an, deputatul PSD a vandut un imobil in localitatea Darmanesti, incasand 90.000 de lei. In 2006, a contractat un credit bancar, in valoare de 161.696 lei.
+Mocanu este actionar la societatea Agricola SA Targu Frumos.
+name=   Vlad Hogea
+context=Camera Deputatilor, Judetul in care candideaza: Iași, Colegiul 11: http://www.becparlamentare2008.ro/coleguni/iasi.pdf, Alianta/Partidul pentru care candideaza: PP-DD
+source= http://verificaintegritatea.romaniacurata.ro/?p=9181
+cat=    Traseism
+Membru PRM (2000-2006), PNG (2006-2007),  Partidul Conservator (2007) si apoi PP-DD.
+name=   Vlad Hogea
+context=Camera Deputatilor, Judetul in care candideaza: Iași, Colegiul 11: http://www.becparlamentare2008.ro/coleguni/iasi.pdf, Alianta/Partidul pentru care candideaza: PP-DD
+source= http://verificaintegritatea.romaniacurata.ro/?p=9183
+cat=    Averea candidatilor
+Potrivit declaratiei de avere, candidatul PP-DD detine doar jumatate dintr-un teren intravilan din Iasi mostenit anul acesta, precum si un apartament si o casa. Are un credit de 14.000 de euro, iar pe anul fiscal 2011, Vlad Hogea declara doar un venit de 2.000 de lei, obtinut ca director al firmei Apulum Expert SRL din judetul Alba.
+name=   Adrian Solomon
+context=Camera Deputatilor, Judetul in care candideaza: Vaslui, Colegiul 4: http://www.becparlamentare2008.ro/coleguni/vaslui.pdf, Alianta/Partidul pentru care candideaza: USL-PSD
+source= http://verificaintegritatea.romaniacurata.ro/?p=9215
+cat=    Averea candidatilor
+2 terenuri intravilane in Barlad, 1 autoturism Chevrolet Kalos.
+Datorii – 12.600 EUR + dobanda – contract de cumparare in leasing autoturism Volkswagen Jetta, achizitionat in 2011 (scadent in 2016).
+name=   Ana Birchall
+context=Camera Deputatilor, Judetul in care candideaza: Vaslui, Colegiul 5: http://www.becparlamentare2008.ro/coleguni/vaslui.pdf, Alianta/Partidul pentru care candideaza: USL-PSD
+source= http://verificaintegritatea.romaniacurata.ro/?p=9226
+cat=    Averea candidatilor
+3 terenuri (pasune si faneata) in judetul Suceava, 2 apartamente in Bucuresti, 1 apartament in New York, 1 casa in SUA, 1 casa de vacanta in judetul Suceava, 1 autoturism Volvo XC 90, bijuterii in valoare de 35.000 EUR, 1 lingou de aur.
+Are in conturi 77.806 EUR,  132.557 USD,  28.000 GBP, 133.160 RON.
+Detine obligatiuni bancare in valoare de 25.464.110 RON si o asigurare de viata in valoare de 6.132.444 RON.
+Detine investititii in strainatate nelistate la valoarea estimate de 23 milioane EUR.
+Datorii – 3 credite bancare dintre care 2 la banci din SUA: 153.000 USD (scadent in 2018), 238.970 USD (scadent in 2017), 10.000 EUR (scadent in 2017).
+name=   Ana Birchall
+context=Camera Deputatilor, Judetul in care candideaza: Vaslui, Colegiul 5: http://www.becparlamentare2008.ro/coleguni/vaslui.pdf, Alianta/Partidul pentru care candideaza: USL-PSD
+source= http://verificaintegritatea.romaniacurata.ro/?p=9229
+cat=    Sponsori ai partidelor police
+In M.O. Nr215/2009, care prezintă lista oficială a sponsorilor PSD, Ana Birchall figureaza  ca donatoare a sumei 90.000 RON.  In 2010 va aparut in spatiul public o inregistrare video in care Ana Birchall ii inmaneaza lui Mircea Gaoana un plic cu 5000 de euro contribuţie la campania electorală.
+name=   Cristian Boureanu
+context=Camera Deputatilor, Judetul in care candideaza: Vaslui, Colegiul 6: http://www.becparlamentare2008.ro/coleguni/vaslui.pdf, Alianta/Partidul pentru care candideaza: ARD-PDL
+source= http://verificaintegritatea.romaniacurata.ro/?p=9243
+cat=    Averea candidatilor
+17 terenuri intravilane (16 in Bucuresti), 2 terenuri extravilane, 1 apartament in New York SUA, colectie obiecte uz casnic din argint in valoare de aprox. 45.000 EUR, bijuterii si ceasuri in valoare totala de aprox. 380.000 EUR.
+Are in conturi 19.738 USD si 11.500 EUR iar in numerar 36.000 EUR si 25.000 USD.
+Datorii – 11 credite bancare in valoare totala de 7.346.870 EUR, 3 credite catre persoane fizice in valoare de 100.000 EUR, 53.000 RON si respectiv 100.000 EUR.
+Este asociat si actionar la urmatorele societati comerciale:  BOUREANU LTD (100% – companie inregistrata in Insulele Marshall), ALTIPO CONSTRUCT SRL (81%), MYWAY BUSINESS CONSULTING SRL (62%), CROMIC SRL (50% – activitatea intrerupta temporar), TIPO TRADING SRL (95% – in lichidare), BS DISTRIBUTION CO SRL (50% -  in lichidare).
+Sotia Valentina Pelinel este asociat in societatea comerciala ROWAY MANAGEMENT SRL (97%).
+name=   Cristian Boureanu
+context=Camera Deputatilor, Judetul in care candideaza: Vaslui, Colegiul 6: http://www.becparlamentare2008.ro/coleguni/vaslui.pdf, Alianta/Partidul pentru care candideaza: ARD-PDL
+source= http://verificaintegritatea.romaniacurata.ro/?p=9245
+cat=    Afaceri si contractele cu statul
+In 2010, Gazeta Sporturilor a publicat o ancheta jurnalistica care demonstra ca firma Topanel SRL, in care erau actionari Cristian Boureanu si fratele sau, Sorin, a livrat panouri termoziolante pentru cel putin 12 sali de sport construite de Compania Nationala de Investitii. Potrivit publicatiei, panourile folosite la o singura sala de sport costa in jur de 75.000 EUR. Ulterior, firma Topanel SRL a fost vanduta de fratii Boureanu unor cetateni irakieni si a falimentat, in prezent fiind radiata.
+name=   Cristian Boureanu
+context=Camera Deputatilor, Judetul in care candideaza: Vaslui, Colegiul 6: http://www.becparlamentare2008.ro/coleguni/vaslui.pdf, Alianta/Partidul pentru care candideaza: ARD-PDL
+source= http://verificaintegritatea.romaniacurata.ro/?p=9247
+cat=    Datorii catre stat
+ALTIPO CONSTRUCT SRL – 3.000 RON – s-a inceput procedura de executare silita
+B.S. DISTRIBUTION CO SRL – 111.307 RON – s-a inceput procedura de executare silita
+name=   Dan Bordeianu
+context=Camera Deputatilor, Judetul in care candideaza: Vaslui, Colegiul 2: http://www.becparlamentare2008.ro/coleguni/vaslui.pdf, Alianta/Partidul pentru care candideaza: USL-PNL
+source= http://verificaintegritatea.romaniacurata.ro/?p=9259
+cat=    Traseism
+A trecut prin doua partide: PNL – UNPR – PNL
+In 2009 a fost exclus din PNL, partid pe listele caruia a fost ales in Parlament, pe motiv ca a absentat de la votul unei motiuni de cenzura impotriva Guvernului Boc. In 2010 s-a inscris in UNPR unde a primit pe loc functia de presedinte al organizatiei judetene Vaslui. In 2011 a revenit in PNL, dar liberalii din organizatia judeteana nu vor sa-l recunoasca si au anuntat ca nu sprijina candidatura acestuia la un nou mandat de deputat, impusa de la centru.
+name=   Dan Bordeianu
+context=Camera Deputatilor, Judetul in care candideaza: Vaslui, Colegiul 2: http://www.becparlamentare2008.ro/coleguni/vaslui.pdf, Alianta/Partidul pentru care candideaza: USL-PNL
+source= http://verificaintegritatea.romaniacurata.ro/?p=9261
+cat=    Nepotism
+In octombrie 2009, presa a relatat ca fiul deputatului Dan Bordeianu, elev in clasa a IX-a la acel moment, a fost transferat ilegal de la un liceu cu profil agricol, unde fusese admis, la unul dintre liceele de elita ale judetului Vaslui, Colegiul National Cuza Voda din Husi, intr-o clasa cu profilul matematica – informatica. Transferul a fost aprobat in baza unui certificat medical din care rezulta ca elevul nu poate face practica in agricultura, iar regulamentul intern al Colegiului Cuza Voda permitea ca in cazuri exceptionale de ordin medical sa se faca astfel de transferuri. ISJ Vaslui a declansat o anchetă la liceul respectiv si a constatat ca respectiva prevedere din regulamentul intern al liceului este in contradictie cu legea, dar a permis elevului Bordeianu sa urmeze mai departe cursurile acestui liceu, considerandu-se ca el personal nu are nicio vina pentru ce s-a intamplat.
+name=   Dan Bordeianu
+context=Camera Deputatilor, Judetul in care candideaza: Vaslui, Colegiul 2: http://www.becparlamentare2008.ro/coleguni/vaslui.pdf, Alianta/Partidul pentru care candideaza: USL-PNL
+source= http://verificaintegritatea.romaniacurata.ro/?p=9263
+cat=    Averea candidatilor
+1 teren agricol in Husi, 1 casa in Husi.
+Are in conturi 8.700 EUR.
+Este asociat la urmatoarele societati comerciale: BIND SRL (100%), ENERGOEST SRL (90% – 10% pe numele sotiei), CRITERIUM SRL (90% – 10% pe numele sotiei – activitate intrerupta temporar).
+Sotia sa, Nicoleta Bordeianu, este asociat in urmatoarele societati comerciale: ECOLOC SRL (100%), ECOMARY SRL (50%).
+name=   Dan Bordeianu
+context=Camera Deputatilor, Judetul in care candideaza: Vaslui, Colegiul 2: http://www.becparlamentare2008.ro/coleguni/vaslui.pdf, Alianta/Partidul pentru care candideaza: USL-PNL
+source= http://verificaintegritatea.romaniacurata.ro/?p=9265
+cat=    Afaceri si contractele cu statul
+2007 – Primaria comunei Deleni (jud. Vaslui) – Alimentare cu apa si amenajare poduri si podete in comuna Deleni – Licitatie deschisa – 3.185.918,63 RON
+2008 – Consiliul local Dranceni (jud. Vaslui) – Executie lucrari – Licitatie publica – 2.065.849,54 RON
+2008 – Consiliul Judetean Vaslui – Intretinere drumuri judetene – Cerere de oferta – 5 contracte separate in valoare totala de 962.374 RON
+2008 – Consiliul Local Nicoresti (jud. Galati) – Reabilitare drum comunal – Licitatie deschisa – 1.041.491 RON
+2008 – Scoala nr.3 Anastasie Panu Husi – Construire gradinita sat Poganesti, comuna Stanilesti, judetul Vaslui – Cerere de oferta – 424.118,63 RON
+2009 – Primaria comunei Bogdana (jud. Vaslui) – Intretinere drumuri comunale si satesti – 245.752,71 RON
+2009 – Consiliul local Stanilesti (jud, Vaslui) – Alimentare cu apa si amenajare de poduri si podete – 3.194.916,02 RON
+2009 – Primaria comunei Dorna Arini (jud. Suceava) – Pietruire drum comunal – 376.022,54 RON
+2010 – Primaria comunei Munteni de sus – Executie lucrari – Cerere de oferta – 74.578,50 RON
+name=   Dan Bordeianu
+context=Camera Deputatilor, Judetul in care candideaza: Vaslui, Colegiul 2: http://www.becparlamentare2008.ro/coleguni/vaslui.pdf, Alianta/Partidul pentru care candideaza: USL-PNL
+source= http://verificaintegritatea.romaniacurata.ro/?p=9267
+cat=    Datorii catre stat
+BIND SRL – 26.612 RON – s-a inceput procedura de executare silita
+ENERGOEST SRL – 12.562 RON – s-a inceput procedura de executare silita
+name=   Florin Ciurariu
+context=Camera Deputatilor, Judetul in care candideaza: Vaslui, Colegiul 3: http://www.becparlamentare2008.ro/coleguni/vaslui.pdf, Alianta/Partidul pentru care candideaza: USL-PNL
+source= http://verificaintegritatea.romaniacurata.ro/?p=9279
+cat=    Averea candidatilor
+2 terenuri intravilane in Vaslui, 1 apartament in Vaslui, 1 autoturism BMW, 1 autoturism Opel.
+Datorii – 2 credite bancare in valoare de 13.816 EUR (scadent in 2025) si 17.870 EUR (scadent in 2027).
+name=   Irinel Ionel Stativa
+context=Camera Deputatilor, Judetul in care candideaza: Vaslui, Colegiul 7: http://www.becparlamentare2008.ro/coleguni/vaslui.pdf, Alianta/Partidul pentru care candideaza: USL-PSD
+source= http://verificaintegritatea.romaniacurata.ro/?p=9291
+cat=    Averea candidatilor
+1 teren agricol si 1 teren intravilan, 2 apartamente in Vaslui si 1 casa, 1 autoturism Toyota.
+Datorii – un credit bancar in valoare de 150.000 RON.
+name=   Marius – Marian Arcaleanu
+context=Camera Deputatilor, Judetul in care candideaza: Vaslui, Colegiul 1: http://www.becparlamentare2008.ro/coleguni/vaslui.pdf, Alianta/Partidul pentru care candideaza: ARD-PDL
+source= http://verificaintegritatea.romaniacurata.ro/?p=9303
+cat=    Averea candidatilor
+1 apartament in Vaslui.
+Datorii – un credit bancar in valoare de 54.170 EUR, scadent in 2036.
+name=   Mihai Ponea
+context=Camera Deputatilor, Judetul in care candideaza: Vaslui, Colegiul 2: http://www.becparlamentare2008.ro/coleguni/vaslui.pdf, Alianta/Partidul pentru care candideaza: ARD-PDL
+source= http://verificaintegritatea.romaniacurata.ro/?p=9314
+cat=    Averea candidatilor
+1 teren intravilan in Vaslui.
+name=   Octavian Marcu
+context=Camera Deputatilor, Judetul in care candideaza: Vaslui, Colegiul 4: http://www.becparlamentare2008.ro/coleguni/vaslui.pdf, Alianta/Partidul pentru care candideaza: ARD-PDL
+source= http://verificaintegritatea.romaniacurata.ro/?p=9327
+cat=    Averea candidatilor
+2 terenuri intravilane si 3 terenuri extravilane, 1 apartament in Iasi, 2 case si 1 spatiu comercial in Barlad, 1 autoturism Alfa Romeo, 1 autoturism Volkswagen Jetta, 1 autoturism Skoda Octavia.
+Datorii – un credit bancar in valoare de 15.000 EUR, scadent in 2013.
+Este asociat in societatea comerciala NEUROMED CENTER SRL (50% – 50% pe numele sotiei).
+name=   Razvan Murgeanu
+context=Camera Deputatilor, Judetul in care candideaza: Vaslui, Colegiul 3: http://www.becparlamentare2008.ro/coleguni/vaslui.pdf, Alianta/Partidul pentru care candideaza: ARD-PDL
+source= http://verificaintegritatea.romaniacurata.ro/?p=9336
+cat=    Colaboratori Securitate
+Razvan Murgeanu  a declarat in 2007  la BBC ca, in perioada in care era student, a semnat un angajament de colaborare cu Securitatea, dar ca ulterior nu a dat nici o declaratie despre acestia. In 2007 a primit verdict de necolaborare din partea CNSAS.
+name=   Razvan Murgeanu
+context=Camera Deputatilor, Judetul in care candideaza: Vaslui, Colegiul 3: http://www.becparlamentare2008.ro/coleguni/vaslui.pdf, Alianta/Partidul pentru care candideaza: ARD-PDL
+source= http://verificaintegritatea.romaniacurata.ro/?p=9341
+cat=    Averea candidatilor
+1 teren agricol in judetul Galati, 1 teren intravilan in Bucuresti, 1 apartament in Bucuresti, 1 autoturism Volga Gaz 21, 1 autoturism Peugeot 407, 1 autoturism Renault Cavavelle, colectie filatelica evaluata la aprox. 40.000 RON, tablouri (C. Piliuta, C. Baba etc.) neevaluate.
+Are in conturi 37.683 RON.
+name=   Sergiu Constantin Vizitiu
+context=Camera Deputatilor, Judetul in care candideaza: Vaslui, Colegiul 7: http://www.becparlamentare2008.ro/coleguni/vaslui.pdf, Alianta/Partidul pentru care candideaza: ARD-PDL
+source= http://verificaintegritatea.romaniacurata.ro/?p=9349
+cat=    Averea candidatilor
+10 terenuri intravilane in judetul Iasi; 8 apartamente, 7 case si 1 spatiu comercial in judetul Iasi.
+In mai 2012 a vandut un teren si o constructie situate intr-o comuna din jud Iasi la pretul de 54.000 EUR.
+Datorii – 2 credite bancare in valoare de 5.000 EUR (scadent in 2013) si 210.000 CHF (scadent in  2032).
+A acordat firmelor in care este actionar imprumuturi in nume personal in valoare totala de 3.431.732 RON. In plus, a acordat imprumuturi in nume personal si catre 5 persoane fizice, in valoare totala de 4.000.000 RON si 226.000 EUR.
+Este asociat in urmatoarele societati comerciale AGRANA FOCURI SRL (99% – 1% pe numele tatalui), ALMA TRUST CONSTRUCT SRL (99% – 1% pe numele sotiei), HUGE CONSTRUCT SRL (99% – 1% pe numele tatalui),  URBIS DESIGN SRL (100%), SOCIETATEA DE GRADUL 1 NORD EST COOPERATIVĂ AGRICOLĂ (20%).
+name=   Sergiu Constantin Vizitiu
+context=Camera Deputatilor, Judetul in care candideaza: Vaslui, Colegiul 7: http://www.becparlamentare2008.ro/coleguni/vaslui.pdf, Alianta/Partidul pentru care candideaza: ARD-PDL
+source= http://verificaintegritatea.romaniacurata.ro/?p=9353
+cat=    Afaceri si contractele cu statul
+2009 – Compania Nationala de Autostrazi si Drumuri Nationale – Reabilitare podet pe DN 15B – Licitatie deschisa – 599.999,48 RON
+2010 – Primaria comunei Ciurea jud. Iasi – Construire sediu nou primarie si demolare corpuri anexe – Cerere de oferta – 2.045.281 RON
+2010 – Primaria comuneii Viisoare, jud. Vaslui – Inlocuire sistem clasic de incalzire cu pompe de caldura sol-apa si panouri solare – Cerere de oferta – 195.180 RON
+2010 – Compania Nationala de Autostrazi si Drumuri Nationale – Eliminarea efectelor indundatiilor din iunie/iulie 2010 pe DN 15B – Negociere fara anunt de participare – 250.000 RON
+2010 – Compania Nationala de Autostrazi si Drumuri Nationale – Lucrari suplimentare pentru obiectivul Pod pe DN 15B – Negociere fara anunt de participare – 71.067,89 RON
+2010 – Primaria comunei Roscani, jud Iasi – Impietruire drumuri comunale – Cerere de oferta – 152.590 RON
+2010 – Consiliul Local Botesti jud. Iasi – Extindere retea apa potabila, infiintare canalizare, construire afterschool, dotare cu utilaje deszapezire, intretinere spatii verzi – Licitatie deschisa – 6.192.487 RON
+2011 – Consiliul Local Rebricea jus Vaslui – Proiectare si executie pentru obiectivele: modernizare drum comunal, alimentare cu apa si canalizare sat Draxeni, construire gradinita, centrala termica si put forat -  Licitatie deschisa – 9.409.321 RON
+2011 – Directia Judeteana de Administrare a Drumurilor si Podurilor Iasi – Modernizare prin asfaltare pe DC 15 Aroneanu-Dobrovat – Cerere de oferta – 1.888.490,06 RON
+2012 – Primaria Prajeni jud Botosani – Extindere sistem alimentare cu apa si canalizare, modernizare drum comunal, construire centru asistenta copii – Licitatie deschisa – 7.562.575 RON
+2012 – Primaria Erbiceni jud Iasi – Proiectare si executie sistem alimentare cu apa, canalizare, reabilitare drum si construire centru social – Cerere de oferta – 9.295.954 RON
+2012 – Primaria comunei Miroslava – Modernizare sediu primarie – Cerere de oferta – 603.498,39 RON
+name=   Sorin Dan Moldovan
+context=Camera Deputatilor, Judetul in care candideaza: Vaslui, Colegiul 5: http://www.becparlamentare2008.ro/coleguni/vaslui.pdf, Alianta/Partidul pentru care candideaza: ARD-PDL
+source= http://verificaintegritatea.romaniacurata.ro/?p=9364
+cat=    Nepotism
+Este fiul lui Ovidiu Petrica Moldovan, om de afaceri si membru PDL din Oradea, ale carui firme au derulat mai multe contracte cu statul in ultimii ani. La randul sau, Ovidiu Moldovan este finul fostului primar din Oradea si actual senator de Bihor, Petru Filip, ales pe listele PDL dar dezertat in aprilie 2012 la PSD.
+Sorin Dan Moldovan a cunoscut o ascensiune rapida atat in organizatia de partid cat si in administratia publica. Astfel, in 2008 el a fost ales presedinte la nivel national al organizatiei studentesti a PDL. Un an mai tarziu, la varsta de 23 de ani, a fost angajat in cadrul Ministerului Educatiei, Cercetarii, Tineretului si Sportului direct pe o functie de director general. In paralel, a lucrat ca economist la una dintre firmele tatalui sau, SC Construct Mod SRL, care derula la vremea respectiva un contract in valoare de 170,8 milioane de lei atribuit de Compania Nationala de Autostrazi si Drumuri Nationale din Romania pentru reabilitarea unui tronson cu o lungime de 33 de kilometri al Drumului National 76, in judetele Arad si Bihor.
+Ulterior, in 2010 a devenit vicepresedinte al Autoritatii Nationale pentru Tineret si Sport, cu rang de subsecretar de stat. Totodata, a fost numit si in functia de presedinte al Comisiei Nationala de Actiune impotriva Violentei in Sport din cadrul ANTS.
+name=   Sorin Dan Moldovan
+context=Camera Deputatilor, Judetul in care candideaza: Vaslui, Colegiul 5: http://www.becparlamentare2008.ro/coleguni/vaslui.pdf, Alianta/Partidul pentru care candideaza: ARD-PDL
+source= http://verificaintegritatea.romaniacurata.ro/?p=9366
+cat=    Averea candidatilor
+Declaratia de avere nu mentioneaza nicio proprietate.
+Nu figureaza ca asociat sau actionar la nicio societate comerciala, in schimb exista mai multe societati comerciale controlate de tatal sau, Ovidiu Petrica Moldovan si alti doi membri ai familiei: Simion Moldovan (bunic) si Ana Corina Moldovan. Acestea sunt: CONSTRUCT MOD SRL, LABRACOM CONSTRUCT SRL (fosta LABRA SOFT SRL), CONTAMOD SRL, INVECON SRL , CLINICAL IMAGE SRL.
+name=   Sorin Dan Moldovan
+context=Camera Deputatilor, Judetul in care candideaza: Vaslui, Colegiul 5: http://www.becparlamentare2008.ro/coleguni/vaslui.pdf, Alianta/Partidul pentru care candideaza: ARD-PDL
+source= http://verificaintegritatea.romaniacurata.ro/?p=9368
+cat=    Afaceri si contractele cu statul
+SC CONSTRUCT MOD SRL
+2007 – Primaria Oradea – Reabilitarea si modernizarea a 8 strazi din municipiul Oradea – Licitatie deschisa – 1.435.691 RON
+2007 – Compania Nationala de Cai Ferate CFR SA – Consolidare terasament linia CF300 Bucuresti-Episcopia Bihor -  Licitatie deschisa – 336.093 RON
+2007 – Consiliul Local al comunei Pietroasa, jud. Bihor – Modernizare drum forestier Pietroasa-Bulz-Scarita – Licitatie deschisa – 2.571.950 RON
+2007 – Compania Nationala de Autostrazi si Drumuri Nationale – Consolidare DN 79A Chisineu Cris-Varsand – Licitatie deschisa – 22.118.218,50 RON (in asociere cu Search Corporation SRL)
+2007 – Primaria Oradea – Suplimentarea contractului de lucrari Modernizare str. Gutemberg – Negociere fara anunt de participare – 608.311 RON
+2008 – Compania Nationala de Autostrazi si Drumuri Nationale – Consolidare DN 79A km. 24-38 – Licitatie deschisa – 9604.281,75 RON
+2008 – Compania Nationala de Autostrazi si Drumuri Nationale – Consolidare DN 57 km. 103-117 Moldova Veche-Radimna – Licitatie deschisa – 25.845.432 RON (in asociere cu DRUMET OAS SRL CERTEZE)
+2008 – Regia Autonoma de Transport Public Ploiesti – Contract furnizare sina – Cerere de oferta – 87.040 RON
+2008 – Consiliul Judetean Bihor – Modernizare DJ 767F Cetariu- Cauaceu (DJ 191) km 11-18 judetul Bihor – Licitatie deschisa – 6.160.331 RON (in asociere cu STARWEST IMPEX SRL)
+2009 – Compania Nationala de Autostrazi si Drumuri Nationale – Acord Cadru pentru lucrari si servicii de întretinere multianuala vara-iarna 2008-2011 pentru DRDP Timisoara – Licitatie deschisa – 92.614.806,43 RON
+2009 – Compania Nationala de Autostrazi si Drumuri Nationale – Reabilitare DN76 Varfurile – Stei km 69–102 – Licitatie deschisa – 170.868.859,22 RON
+2009 – Primaria comunei Buntesti jud. Bihor – Pasarela BA peste râul Crisul Pietros în localitatea Buntesti – Cerere de oferta – 534.385 RON
+2010 – Consiliul Judetean Bihor – Act aditional la acordul contractual Modernizare DJ 767F Cetariu Cauaceu – Negociere fara anunt de participare – 204.545,92 RON
+2010 – Consiliul Judetean Bihor – Modernizare DJ 764 Beius-Rosia si DJ 764 D Bratca – Damis judetul Bihor – Negociere fara anunt de participare – 177.134,81 RON
+CONSTRUCT MOD SRL a incheiat in perioada 1999 – 2004 mai multe contracte cu CFR SA avand obiectul lucrari de constructie si intretinere cai ferate.
+De asemenea, CONSTRUCT MOD SRL a incheiat acorduri cadru pentru intretinerea multianauala (2008 – 2011) a drumurilor nationale Timisoara – Arad si Timisoara – Orsova.
+Firma LABRA SOFT SRL (in 2011 denumirea a fost schimbata in LABRACOM CONSTRUCT SRL) a incheiat in 2003 cu Primaria Oradea un contract in valoare de 8,3 milioane EUR pentru inlocuirea a 9,9 km de linie de tramvai in Oradea.
+In februarie 2012, LABRACOM CONSTRUCT SRL (in asociere cu Sociedad Anonima si De Obras y Servicios Copasa) a incheiat cu CFR SA un contract in valoare de 26.848.119 (fara TVA) pentru modernizarea garii din Zalau.
+Dintre toate aceste afaceri cu statul, declaratia de interese completata si depusa de candidatul Sorin Dan Moldovan in octombrie 2012 nu mentioneaza decat 4 contracte.
+name=   Sorin Dan Moldovan
+context=Camera Deputatilor, Judetul in care candideaza: Vaslui, Colegiul 5: http://www.becparlamentare2008.ro/coleguni/vaslui.pdf, Alianta/Partidul pentru care candideaza: ARD-PDL
+source= http://verificaintegritatea.romaniacurata.ro/?p=9370
+cat=    Datorii catre stat
+INVECON SRL – 206.493 RON – s-au acordat inlesniri la plata
+LABRACOM CONSTRUCT SRL – 280.922 RON – s-au acordat inlesniri la plata
+name=   Toader Dima
+context=Camera Deputatilor, Judetul in care candideaza: Vaslui, Colegiul 6: http://www.becparlamentare2008.ro/coleguni/vaslui.pdf, Alianta/Partidul pentru care candideaza: USL-PSD
+source= http://verificaintegritatea.romaniacurata.ro/?p=9381
+cat=    Averea candidatilor
+3 terenuri agricole, 1 casa si o moara de porumb in comuna Falciu, jud. Vaslui; 1 tractor.
+Are in conturi 80.000 RON.
+Este asociat la urmatoarele societati comerciale: ECOPLANT SRL (50%), AGROVIN PROD SRL (50% – 50% pe numele fratelui).
+name=   Victor Cristea
+context=Camera Deputatilor, Judetul in care candideaza: Vaslui, Colegiul 1: http://www.becparlamentare2008.ro/coleguni/vaslui.pdf, Alianta/Partidul pentru care candideaza: USL-PSD
+source= http://verificaintegritatea.romaniacurata.ro/?p=9393
+cat=    Traseism
+A trecut prin două partide: PD – PSD.
+Membru FSN (ulterior PD) din 1990, Vasile Cristea a demisionat din PD în 2001 pe fondul unui conflict cu președintele PD Vaslui din acea perioadă, Alexandru Mera, și s-a înscris în PDSR (ulterior PSD).
+name=   Victor Cristea
+context=Camera Deputatilor, Judetul in care candideaza: Vaslui, Colegiul 1: http://www.becparlamentare2008.ro/coleguni/vaslui.pdf, Alianta/Partidul pentru care candideaza: USL-PSD
+source= http://verificaintegritatea.romaniacurata.ro/?p=9395
+cat=    Averea candidatilor
+1 teren agricol și 3 terenuri intravilane, 1 casă în Vaslui, 1 autoturism Dacia Logan.
+În decembrie 2011 a vândut o cotă parte dintr-o casă+terenul aferent (moșenire) cu suma de 44.000 RON.
+Are în conturi 20.000 RON.
+Datorii – Potrivit declarației de avere, Victor Cristea a primit în 2005 un împrumut în valoare de 673.000 RON (care trebuie returnat în 25 de ani) din partea unei societăți comerciale, URBAN PROIECT SA din Bârlad.
+Această firmă de construcții aparține PSD-istului Viorel Dumitrașcu (fost PD) din județul Vaslui și a încheiat numeroase contracte de achiziție publică în valoare de zeci de milioane de RON.
+name=   Costica Canacheu
+context=Camera Deputatilor, Judetul in care candideaza: Bucuresti, Colegiul 4: http://www.becparlamentare2008.ro/coleguni/bucuresti.pdf, Alianta/Partidul pentru care candideaza: ARD-PDL
+source= http://verificaintegritatea.romaniacurata.ro/?p=9414
+cat=    Averea candidatilor
+Detine un apartament in Bucuresti, o colectie de carte veche in valoare de 60 000 lei, 10 000 de euro in cont. Are un credit la o banca in valoare de 50 000 de euro. A castigat ca deputat 55 488 lei.
+Este actionar la SC Nei Co Grup SA, o firma de birotica.
+name=   Costica Canacheu
+context=Camera Deputatilor, Judetul in care candideaza: Bucuresti, Colegiul 4: http://www.becparlamentare2008.ro/coleguni/bucuresti.pdf, Alianta/Partidul pentru care candideaza: ARD-PDL
+source= http://verificaintegritatea.romaniacurata.ro/?p=9416
+cat=    Afaceri si contractele cu statul
+Declara ca a facut in perioada 2008-2012 afaceri cu statul in valoare de 682 225 lei.
+Printre institutiile cu care a avut contracte se afla: Tarom, sase contrracte, Monitorul Oficial, 3 contracte, RATB 3 contracte, Romatsa 3 contracte si Imprimeia Nationala 2 contracte.
+name=   Ioan Mihaila
+context=Camera Deputatilor, Judetul in care candideaza: Bucuresti, Colegiul 6: http://www.becparlamentare2008.ro/coleguni/bucuresti.pdf, Alianta/Partidul pentru care candideaza: ARD-PNTCD
+source= http://verificaintegritatea.romaniacurata.ro/?p=9427
+cat=    Averea candidatilor
+Detine un teren agricol de 80 de hectare, doua aprtamente in Timisoara. este asociat la SC Charpatians SRL sdi la SC Alcomdent SRL.
+name=   Maria Mota
+context=Camera Deputatilor, Judetul in care candideaza: Bucuresti, Colegiul 5: http://www.becparlamentare2008.ro/coleguni/bucuresti.pdf, Alianta/Partidul pentru care candideaza: ARD-PDL
+source= http://verificaintegritatea.romaniacurata.ro/?p=9440
+cat=    Averea candidatilor
+Detine un apartament in Targu Jiu, bijuterii in valoare de 7000 de euro si are in conturi 147 432 lei. Aprumutat o persoana privata cu 20 000 euro si a castigat 47 590 lei pentru postul de consilier la Ministerul Muncii si protectiei Sociale.
+name=   Maria Mota
+context=Camera Deputatilor, Judetul in care candideaza: Bucuresti, Colegiul 5: http://www.becparlamentare2008.ro/coleguni/bucuresti.pdf, Alianta/Partidul pentru care candideaza: ARD-PDL
+source= http://verificaintegritatea.romaniacurata.ro/?p=9442
+cat=    Afaceri si contractele cu statul
+Despre Maria Moţa, presa din Gorj scrie că, în perioada în care a fost preşedinta Agenţiei Naţionale pentru Egalitate de Şanse între Femei şi Bărbaţi, a locuit gratis într-o casă RAAPPS din Bucureşti de 136 de metri pătraţi.
+name=   Nicolae Banutoiu
+context=Camera Deputatilor, Judetul in care candideaza: Bucuresti, Colegiul 5: http://www.becparlamentare2008.ro/coleguni/bucuresti.pdf, Alianta/Partidul pentru care candideaza: PP-DD
+source= http://verificaintegritatea.romaniacurata.ro/?p=9453
+cat=    Averea candidatilor
+Are un credit de 25 000 de euro. A castigat 24 000 lei/anual din pensia de revolutionar.
+name=   Adrian Constantin Simionescu
+context=Camera Deputatilor, Judetul in care candideaza: Teleorman, Colegiul 2: http://www.becparlamentare2008.ro/coleguni/teleorman.pdf, Alianta/Partidul pentru care candideaza: USL-PSD
+source= http://verificaintegritatea.romaniacurata.ro/?p=9465
+cat=    Averea candidatilor
+2 terenuri arabile, 1 apartament in Turnu Magurele, 1 autoturism Aro 243, 1 autoturism Ford Cielo
+Datorii – 2 credite bancare in valoare de 86.200 RON, respectiv 57.000 RON, ambele scadente in 2027.
+Este asociat in societatea comerciala SADY COM SRL (100%).
+name=   Elena Catalina Stefanescu
+context=Camera Deputatilor, Judetul in care candideaza: Teleorman, Colegiul 1: http://www.becparlamentare2008.ro/coleguni/teleorman.pdf, Alianta/Partidul pentru care candideaza: USL-PSD
+source= http://verificaintegritatea.romaniacurata.ro/?p=9478
+cat=    Nepotism
+Este fiica Cristianei Barbu, presedinte al Agentiei Nationale pentru Ocuparea Fortei de Munca numita in functie in guvernarea USL, 2012
+In 2009, in perioada in care PSD s-a aflat la guvernare, Elena Catalina Stefanescu a ocupat vremelnic functii in Ministerul Tineretului si Sportului si la Camera Deputatilor.
+name=   Elena Catalina Stefanescu
+context=Camera Deputatilor, Judetul in care candideaza: Teleorman, Colegiul 1: http://www.becparlamentare2008.ro/coleguni/teleorman.pdf, Alianta/Partidul pentru care candideaza: USL-PSD
+source= http://verificaintegritatea.romaniacurata.ro/?p=9480
+cat=    Averea candidatilor
+1 apartament, 1 autoturism Citroen. In declaratia de avere a Cristianei Barbu, mama,  este mentionat un imprumut in valoare de 54.000 EUR primit de la Elena Catalina Stefanescu, suma pe care trebuie sa o inapoieze fiicei pana in 2032.
+Datorii – un credit bancar in valoare de 53.675 RON, scadent in 2041.
+name=   Florica Ica Calota
+context=Camera Deputatilor, Judetul in care candideaza: Teleorman, Colegiul 5: http://www.becparlamentare2008.ro/coleguni/teleorman.pdf, Alianta/Partidul pentru care candideaza: USL-PNL
+source= http://verificaintegritatea.romaniacurata.ro/?p=9494
+cat=    Funcții inainte de 1989
+1987 – 1990 – sef ferma IAS Chilia Veche
+name=   Florica Ica Calota
+context=Camera Deputatilor, Judetul in care candideaza: Teleorman, Colegiul 5: http://www.becparlamentare2008.ro/coleguni/teleorman.pdf, Alianta/Partidul pentru care candideaza: USL-PNL
+source= http://verificaintegritatea.romaniacurata.ro/?p=9499
+cat=    Averea candidatilor
+2 apartamente in Alexandria.
+Datorii – 2 credite bancare in valoare de 16.000 EUR (scadent in 2034) si 26.000 RON (scadent in 2017).
+name=   Marin Almajanu
+context=Camera Deputatilor, Judetul in care candideaza: Teleorman, Colegiul 6: http://www.becparlamentare2008.ro/coleguni/teleorman.pdf, Alianta/Partidul pentru care candideaza: USL-PNL
+source= http://verificaintegritatea.romaniacurata.ro/?p=9509
+cat=    Colaboratori Securitate
+In 2005 a primit verdict de necolaborare din partea CNSAS
+name=   Marin Almajanu
+context=Camera Deputatilor, Judetul in care candideaza: Teleorman, Colegiul 6: http://www.becparlamentare2008.ro/coleguni/teleorman.pdf, Alianta/Partidul pentru care candideaza: USL-PNL
+source= http://verificaintegritatea.romaniacurata.ro/?p=9514
+cat=    Averea candidatilor
+1 teren intravilan in judetul Brasov, 1 apartament si 1 casa in jud. Teleorman, 1 casa de vacanta in jud. Brasov, 1 autoturism Cielo Executive, 1 autoturism Volkswagen Passat.
+name=   Nicolae Mohanu
+context=Senat, Judetul in care candideaza: Teleorman, Colegiul 1: http://www.becparlamentare2008.ro/coleguni/teleorman.pdf, Alianta/Partidul pentru care candideaza: USL-PSD
+source= http://verificaintegritatea.romaniacurata.ro/?p=9525
+cat=    Averea candidatilor
+3 terenuri agricole si 1 teren intravilan; 1 apartament, 1 autoturism Dacia 1300.
+In 2011 a vandut un teren agricol contra sumei de 2.500 RON.
+Datorii – 2 credite bancare in valoare de 16.000 EUR (scadent in 2016) si 25.000 RON (scadent in 2014).
+name=   Timotei Stuparu
+context=Senat, Judetul in care candideaza: Teleorman, Colegiul 3: http://www.becparlamentare2008.ro/coleguni/teleorman.pdf, Alianta/Partidul pentru care candideaza: USL-PSD
+source= http://verificaintegritatea.romaniacurata.ro/?p=9537
+cat=    Averea candidatilor
+6 terenuri agricole si 1 teren intravilan in judetul Teleorman, 1 apartament si 1 casa in jud. Teleorman.
+Detine suma de 4.598 EUR depusa intr-un fond de investitii bancar.
+Datorii – un credit bancar in valoare de 98.000 EUR, scadent in 2038.
+Este asociat in societatile comerciale TIMOTEI SRL (100%), EUROMONTANA SRL (16% – 68% pe numele fiicelor – firma in dizolvare).
+name=   Valentin Gabriel Boboc
+context=Camera Deputatilor, Judetul in care candideaza: Teleorman, Colegiul 4: http://www.becparlamentare2008.ro/coleguni/teleorman.pdf, Alianta/Partidul pentru care candideaza: USL-PSD
+source= http://verificaintegritatea.romaniacurata.ro/?p=9548
+cat=    Averea candidatilor
+2 terenuri agricole si 3 terenuri intravilane, 3 case si 1 spatiu comercial in Alexandria, 1 casa de vacanta in Zarnesti, 1 autoturism Volkswagen Golf, 2 remorci Imadria, 1 motocicleta Kawasaki, 1 motoreta Mobra.
+In 2011 a vandut 1 apartament cu suma de 72.000 RON si 4 autoturisme (Skoda, Peugeot 106, Logan si Volkswagen Passat) in schimbul carora a incasat in total 32.500 EUR.
+Datorii – 2 credite bancare in valoare de 160.000 RON (scadent in 2035) si 11.500 RON (scadent in 2015).
+name=   Valentin Gabriel Boboc
+context=Camera Deputatilor, Judetul in care candideaza: Teleorman, Colegiul 4: http://www.becparlamentare2008.ro/coleguni/teleorman.pdf, Alianta/Partidul pentru care candideaza: USL-PSD
+source= http://verificaintegritatea.romaniacurata.ro/?p=9550
+cat=    Afaceri si contractele cu statul
+In 2010, Valentin Boboc a incasat de la Primaria Alexandria, unde ocupa functia de administrator public, suma de 12.264 RON drept „ajutor de inmormantare” in urma decesului soacrei. In primavara lui 2012, inspectorii Curtii de Conturi au stabilit ca sumele acordate de Primaria Alexandria ca ajutor de inmormantare lui Valentin Boboc si altor 4 angajati ai municipalitatii nu au temei legal, reprezinta un prejudiciu adus bugetului institutiei si trebuie recuperate. Primaria Alexandria a contestat decizia Curtii de Conturi.
+name=   Ileana Dumitrache
+context=Camera Deputaților, Judetul in care candideaza: Constanța, Colegiul 3: http://www.becparlamentare2008.ro/coleguni/constanta.pdf, Alianta/Partidul pentru care candideaza: USL-PSD
+source= http://verificaintegritatea.romaniacurata.ro/?p=9599
+cat=    Nepotism
+Este fiica lui Ion Dumitrache, consilier judetean Constanta din partea PSD si om de afaceri cu contracte cu statul.
